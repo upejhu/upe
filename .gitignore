@@ -12,3 +12,6 @@
 
 # sftp configuration file
 sftp-config.json
+
+# mac
+.DS_Store
