@@ -1,0 +1,24 @@
+About me:
+---------
+I studied at JHU from 2001 - 2006 and received BS/MSE degrees in CS. 
+While in school I started my company SmartLogic (http://smartlogic.io/). 
+We build custom web / mobile based software.
+
+Academic Standing:
+------------------
+Graduated.
+Organization: SmartLogic (http://smartlogic.io/)
+
+Areas of interest in CS:
+------------------------
+Applications, Systems, Protocols, Programming Languages
+
+Favorite Languages:
+-------------------
+Most-est: C
+Most-er: Python/Perl
+Most: Functional
+
+Hobbies:
+--------
+Biking, running, networking, travelling

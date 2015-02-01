@@ -1,0 +1,25 @@
+About me:
+---------
+Charlie is a recent graduate from Johns Hopkins University as a member of the class of 2014. He studied mathematics, computer science, and the classics and is currently working as a software engineer at Epic in Madison Wisconsin. He loves to read, swim, and play videogames.
+
+Academic Standing:
+------------------
+Working - Epic (http://www.epic.com/)
+
+Areas of interest in CS:
+------------------------
+Algorithms, NLP, Machine Learning, Automata and Computational Theory
+
+Favorite Languages:
+------------------
+Most-est: Python
+Most-er: C 
+Most: Latin
+
+Noteworthy achievements:
+------------------------
+CS +X Award, 8x Semesters on Deans List, Pistritto Fellowship
+
+Hobbies:
+--------
+Magic: The Gathering, Videogames, Reading, Tennis

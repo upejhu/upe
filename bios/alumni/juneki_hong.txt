@@ -1,0 +1,28 @@
+About me:
+---------
+Juneki completed both his BS and MSE in Computer Science at JHU. 
+He has since migrated to pursue further graduate eduation at Carnegie 
+Mellon University (CMU) in the Fall of 2014. In Juneki's own words "I am a fungi".
+
+Academic Standing:
+------------------
+Graduated. 
+Organization: Carnegie Mellon University (http://www.cmu.edu)
+
+Areas of interest in CS:
+------------------------
+Natural Language Processing, Machine Learning
+
+Favorite Languages:
+-------------------
+Most-est: Python
+Most-er: Prolog
+Most: English
+
+Noteworthy achievements:
+------------------------
+Won MVP (Most Valuable Peer Award) this year awarded by the CS department to an undergrad. 
+
+Hobbies:
+--------
+Video games, configuring my laptop to my preference, learning something

@@ -1,0 +1,28 @@
+About me:
+---------
+I just graduated from Hopkins, and will be going to Google as my first job.
+I've had an amazing time in the CS department, particularly suffering and 
+loving NLP, as well as Compiler and Interpreters.
+
+Academic Standing:
+------------------
+Graduated. Firm: Google (https://google.com). 
+
+
+Areas of interest in CS:
+------------------------
+Compilers, NLP
+
+Favorite Languages:
+-------------------
+Most-est: Python
+Most-er: C
+Most: Java
+
+Noteworthy achievements:
+------------------------
+An A in NLP!
+
+Hobbies:
+--------
+Biking, Surfing, Hula Hooping
