@@ -20,8 +20,8 @@ KISS.
 
 ## Contributions
 
-Alexander Schiffhauer, President 2014
-Disa Mhembere, Secretary 2014
+* Alexander Schiffhauer, President 2014
+* Disa Mhembere, Secretary 2014
 
 Special thanks to members of the ACM that continue to host our website, free of charge.
 
