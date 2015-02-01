@@ -6,7 +6,7 @@ This is the website for JHU's chapter of UPE.
 * `members.html` is the web page that lists our members.
 * `images/` is the folder that contains all images used by this website.
 * `css/` is the folder that contains all css used by this website.
-** Modify `css/custom.css` for any changes to the website's styling.
+    - Modify `css/custom.css` for any changes to the website's styling.
 
 ## Tech Stack
 
