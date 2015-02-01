@@ -1,0 +1,19 @@
+About me:
+---------
+I am currently a PhD student in ME as well as a MS student in CS. 
+My research focus is the application of computer vision algorithms in medical infrared imaging.
+
+Academic Standing:
+-------------------
+Graduate: PhD
+Interned: Vasoptic Medical (http://www.vasopticmedical.com/)
+
+Areas of interest in CS:
+------------------------
+Computer Vision, Robotics
+
+Favorite Languages:
+-------------------
+Most-est: MATLAB
+Most-er: Java
+Most: C++

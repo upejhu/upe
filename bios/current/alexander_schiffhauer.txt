@@ -1,0 +1,30 @@
+About me:
+---------
+Alexander is a graduate student, game developer, and self-proclaimed wannabe artist. 
+He did his undergrad at JHU in computer science. Following this, he took a year off 
+graduate school to pursue his entrepreneurial aspirations at SecretNewCo in Timonium, MD.
+He is excited by new hardware and software, and hopes to create something that will someday
+ change our culture!
+
+Academic Standing:
+------------------
+Graduate: MS
+
+
+Areas of interest in CS:
+------------------------
+Compilers and Programming Languages
+
+Favorite Languages:
+-------------------
+Most-est: C#
+Most-er: Java
+Most: C++
+
+Noteworthy achievements:
+------------------------
+Finalist in the Johns Hopkins Business Plan Competition, Honors Student
+
+Hobbies:
+--------
+Guitar, photography, weightlifting, yoga, basketball, bicycling

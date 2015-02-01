@@ -1,0 +1,32 @@
+About me:
+---------
+Disa is PhD student in Computer Science (CS) at the Johns Hopkins University where he 
+researches under Prof. Randal Burns in the Hopkins Storages Systems Lab. 
+He obtained his BS in Electrical Engineering and proceeded to complete his MSE in Engeering
+Management (with CS concentration) before joining the CS department full-time and obtaining
+his MSE in CS in 2015. He is student of the art of synergy between Computer Science and 
+business and loves to broaden his knowledge of the two.
+
+Academic Standing:
+------------------
+Graduate: PhD.
+
+Areas of interest in CS:
+------------------------
+Data-Intensive Scientific Computing, Parallel Programming, 
+Compilers and Interpreters, Web-programming.
+
+Favorite Languages:
+-------------------
+Most-est: Python
+Most-er: C/C++
+Most: Java
+
+Noteworthy achievements:
+------------------------
+Computer Science Graduate (Paul V. Renoff) Fellowship, UPE Special Recognition Award,
+Secretary of the UPE (2014-Present).
+
+Hobbies:
+--------
+Tennis, snowboarding, running, biking.

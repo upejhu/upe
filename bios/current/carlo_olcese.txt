@@ -1,0 +1,35 @@
+About me:
+---------
+Carlo enjoys software development and solving problems with computers. 
+Over the past 2 summers he worked as a software engineer at two business firms: 
+Standard & Poor's Capital IQ (https://www.capitaliq.com/) 
+and Goldman Sachs (http://www.goldmansachs.com/). He has also taken a number of 
+upper level CS classes and have been accepted into the dual BS/MS program at 
+Hopkins for computer science. He plans to finish his Master's in the fall of 2015.
+He has been a course assistant for Intro to Java for 3 semesters and plans to continue
+ TA'ing classes. Besides his work in CS, he is currently the Vice-President of 
+Sigma Alpha Epsilon fraternity as well as layout editor for the undergraduate 
+philosophy journal. He is still not sure what he wants to pursue after graduation, 
+but it may include a startup business in Silicon Valley or NYC.
+
+Academic Standing:
+-------------------
+Undergraduate/Graduate.
+
+Areas of interest in CS:
+------------------------
+Information Retrieval, Algorithms, Object Oriented Software Engineering, Interpreters
+
+Favorite Languages:
+-------------------
+Most-est: C++
+Most-er: Perl
+Most: Java
+
+Noteworthy achievements:
+------------------------
+Dean's List Spring 2011-Spring 2014
+
+Hobbies:
+---------
+Ultimate Frisbee, App Development, Basketball
