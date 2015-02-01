@@ -1,7 +1,5 @@
 ## Overview
 
-This is the website for JHU's chapter of UPE.
-
 * `index.html` is the main web page.
 * `members.html` is the web page that lists our members.
 * `images/` is the folder that contains all images used by this website.
