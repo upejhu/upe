@@ -92,67 +92,22 @@ body {
         border-radius: 125px;
     }
 
-.content {
-    float: left;
-    width: 300px;
-}
-    .title {
-        font-size: 48px;
-        font-weight: normal;
-        line-height: 1;
-    }
-
-    .social-icons li {
-        display: inline;
-    }
-        .social-icons a {
-            display: inline-block;
-            margin-right: 10px;
-            text-indent: -9999px;
-        }
-            .twitter {
-                background-image: url(../img/twitter.png);
-                width: 20px;
-                height: 17px;
-            }
-            .facebook {
-                background-image: url(../img/facebook.png);
-                width: 10px;
-                height: 19px;
-            }
-            .googleplus {
-                background-image: url(../img/googleplus.png);
-                width: 21px;
-                height: 19px;
-            }
-            .dribbble {
-                background-image: url(../img/dribbble.png);
-                width: 21px;
-                height: 19px;
-            }
-            .instagram {
-                background-image: url(../img/instagram.png);
-                width: 20px;
-                height: 19px;
-            }
-            .flickr {
-                background-image: url(../img/flickr.png);
-                width: 20px;
-                height: 9px;
-            }
-
-
 
 /*------------------------------------*\
     $TYPOGRAPHY
 \*------------------------------------*/
+.whoami {
+  font-size: larger;
+  font-weight: bold;
+  margin-bottom: 20px;
+}
 p,
 ul, ol, dl,
 .title {
     margin-bottom: 20px;
 }
 p {
-    font-weight: bold;
+    font-weight: normal;
 }
 
 a {
