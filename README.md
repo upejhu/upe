@@ -1,8 +1,12 @@
 ## Overview
 
 * `index.html` is the main web page.
-* `members.html` is the web page that lists our members.
-* `images/` is the folder that contains all images used by this website.
+* `members.json` is the database for our chapter's members.
+* `members.py` parses `members.json` and builds
+	- `members.html`, which displays our chapter's members in a table.
+	-`members/$member`, which is $member's personal page.
+* `requirements.html` displays the requirements for joining our chapter.
+* `images/` contains all images used by this website.
 * `css/` is the folder that contains all css used by this website.
     - Modify `css/custom.css` for any changes to the website's styling.
 
@@ -20,6 +24,7 @@ KISS.
 
 * Alexander Schiffhauer, President 2014
 * Disa Mhembere, Secretary 2014
+* Carlo Olcese, Member 2014
 
 Special thanks to members of the ACM that continue to host our website, free of charge.
 
