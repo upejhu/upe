@@ -1,0 +1,81 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+
+  <!-- Metadata
+  –––––––––––––––––––––––––––––––––––––––––––––––––– -->
+  <meta charset="utf-8">
+  <title>Upsilon Pi Epsilon</title>
+  <meta name="description" content="Upsilon Pi Epsilon, The Johns Hopkins University Chapter">
+  <meta name="author" content="Alexander Schiffhauer">
+  <meta name="viewport" content="width=device-width, initial-scale=1">
+
+  <!-- Font
+  –––––––––––––––––––––––––––––––––––––––––––––––––– -->
+  <link rel='stylesheet' href='http://fonts.googleapis.com/css?family=Raleway:400,300,600' type='text/css' >
+
+  <!-- CSS
+  –––––––––––––––––––––––––––––––––––––––––––––––––– -->
+  <link rel="stylesheet" href="css/normalize.css">
+  <link rel="stylesheet" href="css/skeleton.css">
+  <link rel="stylesheet" href="css/custom.css">
+
+  <!-- Favicon
+  –––––––––––––––––––––––––––––––––––––––––––––––––– -->
+  <link rel="icon" href="images/favicon.ico" type="image/x-icon">
+
+</head>
+<body>
+  <!-- Header
+  –––––––––––––––––––––––––––––––––––––––––––––––––– -->
+  <div class="blue">
+    <div class="container">
+      <div class="row">
+        <div class="twelve columns" style="margin-top: 5%;">
+          <img src="images/jhu.png"/>
+        </div>
+      </div>
+      <div class="row" style="margin-top: 4%">
+        <div class="eight columns offset-by-two">
+          <p>Upsilon Pi Epsilon (UPE): International Honor Society for the Computing and Information Disciplines is the first honor society dedicated to the discipline of computer information systems and computer science.</p>
+        </div>
+      </div>
+      <div class="row">
+        <div class="two columns offset-by-five"><a class="button button-primary" href="index.html">Home</a></div>
+      </div>
+    </div>
+  </div>
+  <!-- About us
+  –––––––––––––––––––––––––––––––––––––––––––––––––– -->
+  <div class="white">
+    <div class="container">
+      <table class="wide" style="margin-top: 2%">
+        <thead>
+          <tr>
+            <th>Name</th>
+            <th>Interests</th>
+            <th>Tutoring</th>
+            <th>Notes</th>
+          </tr>
+        </thead>
+        <tbody>
+        $ACTIVE_MEMBERS$
+      </table>
+      <h5 style="margin-top: 2%">Alumni</h5>
+      <table class="wide" style="margin-top: 2%">
+        <thead>
+          <tr>
+            <th>Name</th>
+            <th style="width: 100%"> <th>
+            <th>Notes</th>
+          </tr>
+        </thead>
+        <tbody>
+        $ALUMNI$
+      </table>
+    </div>
+  </div>
+<!-- End Document
+  –––––––––––––––––––––––––––––––––––––––––––––––––– -->
+</body>
+</html>
