@@ -42,7 +42,13 @@
 				},
 				{
 					"alumni":true,
-					"name":"Charles Seidell"
+					"name":"Charles Seidell",
+                                        "create_profile":true,
+                                        "interests":"Algorithms, NLP, Machine Learning, Automata and Computational Theory",
+                                        "bio":"Charlie is a recent graduate from Johns Hopkins University as a member of the class of 2014. He studied mathematics, computer science, and the classics and is currently working as a software engineer at Epic in Madison Wisconsin. He loves to read, swim, and play videogames. He received the CS +X Award, achieved 8x Semesters on Deans List, and the Pistritto Fellowship",
+                                        "languages":"Python, C, Latin",
+                                        "hobbies":"Magic: The Gathering, Videogames, Reading, Tennis",
+                                        "image":"images/charles_seidell.jpg"
 				},
 				{
 					"alumni":false,
@@ -73,7 +79,13 @@
 				},
 				{
 					"alumni":true,
-					"name":"Ben Cohen"
+                                        "create_profile":true,
+					"name":"Ben Cohen",
+                                        "interests":"Programming Languages, Compilers, Type Theory, and generally anything to do with language paradigms and the various choices a language can make that affect its use and 'feel'. Also, anything that has to do with design and 'Software Development' productivity, so things like Design Patterns and other high-level design-based abstraction of common programming solutions.",
+                                        "bio":"Ben graduated with a BS in CS May 2014 and started with Microsoft in the Fall as a Program Manager, working on the Windows Azure platform. While at Hopkins, in regards to CS, he researched under Prof. Scott Smith on the BigBang language (implemented integer and floating point arithmetic into the TinyBang interpreter) and CAed Intermediate Programming with Prof. Yair Amir and UI & Mobile Apps with Prof. Joanne Selinski. He is a big fan of learning new languages, especially ones with unique paradigms, and as a result had a particular love for Prof. Scott Smith's Programming Languages class. Outside of CS, he is a big comedy and theater nut, and hopes to one day do comedy writing on some professional level.",
+                                        "languages":"Haskell, Python, C",
+                                        "hobbies":"Sketch Comedy, Improv, Standup, Theater",
+                                        "image":"images/benjamin_cohen.jpg"
 				},
 				{
 					"alumni":true,
