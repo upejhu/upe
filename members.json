@@ -120,7 +120,13 @@
 				},
 				{
 					"alumni":true,
-					"name":"David Watson"
+                                        "create_profile":true,
+					"name":"David Watson",
+                                        "interests":"Compilers, NLP",
+                                        "bio":"David just graduated from Hopkins in 2014, and will be going to Google as my first job. In his words \"I've had an amazing time in the CS department, particularly suffering and loving NLP, as well as Compiler and Interpreters.\"",
+                                        "languages":"Python, C, Java",
+                                        "hobbies":"Hobbies: Biking, surfing, hula hooping",
+                                        "image":"images/no_image_male.png"
 				},
 				{
 					"alumni":true,
@@ -176,7 +182,13 @@
 				},
 				{
 					"alumni":true,
-					"name":"Juneki Hong"
+					"name":"Juneki Hong",
+                                        "create_profile":true,
+                                        "interests":"Natural Language Processing, Machine Learning",
+                                        "bio":"Juneki completed both his BS and MSE in Computer Science at JHU. He has since migrated to pursue further graduate eduation at Carnegie Mellon University (CMU) in the Fall of 2014. In Juneki's own words \"I am a fungi\".",
+                                        "languages":"Python, Prolog, English",
+                                        "hobbies":"Video games, configuring my laptop to my preference, learning something",
+                                        "image":"images/juneki_hong.jpg"
 				},
 				{
 					"alumni":true,
@@ -294,7 +306,12 @@
 				},
 				{
 					"alumni":true,
-					"name":"Yun Liu"
+                                        "create_profile":true,
+					"name":"Yun Liu",
+                                        "bio":" Yun received his B.S. in biology and commputer science from Johns Hopkins University in 2010. He is currently working towards a Ph.D. in the Harvard-MIT Division of Health Sciences and Technology (HST), co-advised by Professors Collin Stultz and John Guttag. His research experience spanned molecular virology, bioinformatics and computational chemistry. Yun's current research revolves around cardiovascular risk stratification, but he is also interested in other medical big data fields.",
+                                        "interests":"Medical big data",
+					"languages":"Python",
+					"image":"images/no_image_male.png"
 				},
 				{
 					"alumni":true,
@@ -440,7 +457,13 @@
 				},
 				{
 					"alumni":true,
-					"name":"Yair Flicker"
+					"name":"Yair Flicker",
+                                        "create_profile":true,
+                                        "bio":"I studied at JHU from 2001 - 2006 and received BS/MSE degrees in CS. While in school I started my company <a href=\"http://smartlogic.io/\">SmartLogic</a>. We build custom web / mobile based software.",
+                                        "interests":"Applications, Systems, Protocols, Programming Languages",
+					"languages":"C, Python/Perl, Functional",
+					"hobbies":"Biking, running, networking, travelling",
+					"image":"images/yair_flicker.jpg"
 				},
 				{
 					"alumni":true,
