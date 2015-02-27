@@ -1,812 +1,797 @@
-{
-	"years":
-	[
-		{
-			"year":"2014",
-			"members":
-			[
-				{
-					"alumni":false,
-					"create_profile":true,
-					"name":"Carlo Olcese",
-					"notes": "",
-					"interests":"Entrepreneurship, Genomics, Finance",
-					"tutoring":"Data Structures, Algorithms",
-					"bio":"Carlo enjoys software development and solving problems with computers.  Over the past 2 summers he worked as a software engineer at two finance firms: Standard &amp; Poor's Capital IQ (https://www.capitaliq.com/) and Goldman Sachs (http://www.goldmansachs.com/). He has also taken a number of upper level CS classes and is currently a concurrent BS/MS at Hopkins for computer science. He plans to finish his Master's in the fall of 2015. He has been a course assistant for Intro to Java, Objected Oriented Software Engineering, and Compilers/Interpreters. Besides his work in CS, he is currently the layout editor for the undergraduate philosophy journal. He is still not sure what he wants to pursue after graduation, but he will be joining a start-up in NYC for the Summer of 2015.",
-					"academic_standing": "Bachelor's & Master's Student",
-					"languages":"Java, Python, C++, Perl",
-					"hobbies":"Weight Lifting, App. development, and basketball",
-					"image":"images/carlo_olcese.jpg"
-				},
-				{
-					"alumni":false,
-					"create_profile":true,
-					"name":"Tuvia Lerea",
-					"notes":"Vice-President",
-					"interests":"Security and Privacy",
-					"tutoring":"Computer System Fundamentals, Intermediate Programming",
-					"bio":"Tuvia graduated from SAR high school in The Bronx, NY. He then took a year off between high school and college, during which he studied in an Israeli pre-army programming institution for several months, and worked in a PTSD lab for 9 months. He came to JHU as a Neuroscience major, but after taking Intro Java he fell in love with programming. He transitioned to the CS major in the second semester of his sophomore year. Since switching to CS he joined Bootup Baltimore as well as the HopHacks team. Upon graduation, he intends to continue on at Hopkins to pursue his Masters degree in Computer Science. <br> Tuvia frequents the Dean's List and is currently the UPE Vice President.",
-					"academic_standing":"Bachelor's Student",
-					"languages":"Java, C, Javascript",
-					"hobbies":"Programming, StarCraft, Bootup Baltimore, skiing",
-					"image":"images/tuvia_lerea.jpg"
-				},
-				{
-					"alumni":true,
-					"name":"Benjamin Glickman",
-					"notes":"Treasurer"
-				},
-				{
-					"alumni":true,
-					"name":"Gregory Furman"
-				},
-				{
-					"alumni":true,
-					"name":"Charles Seidell",
-                                        "create_profile":true,
-                                        "interests":"Algorithms, NLP, Machine Learning, Automata and Computational Theory",
-                                        "bio":"Charlie is a recent graduate from Johns Hopkins University as a member of the class of 2014. He studied mathematics, computer science, and the classics and is currently working as a software engineer at Epic in Madison Wisconsin. He loves to read, swim, and play videogames. He received the CS +X Award, achieved 8x Semesters on Deans List, and the Pistritto Fellowship",
-                                        "languages":"Python, C, Latin",
-                                        "hobbies":"Magic: The Gathering, Videogames, Reading, Tennis",
-                                        "image":"images/charles_seidell.jpg"
-				},
-				{
-					"alumni":false,
-					"create_profile":true,
-					"name":"Disa Mhembere",
-					"notes":"Secretary",
-					"interests":"Data-Intensive Scientific Computing, Parallel Programming, Compilers and Interpreters, Web-programming.",
-					"tutoring":"Data Structures, Parallel Programming",
-					"bio":"Disa is PhD student in Computer Science (CS) at the Johns Hopkins University where he researches under Prof. Randal Burns in the Hopkins Storages Systems Lab. He is the current Sectretary of the Hopkins UPE chapter. He obtained his BS in Electrical Engineering and proceeded to complete his MSE in Engeering Management (with CS concentration) before joining the CS department full-time and obtaining his MSE in CS in 2015. He is student of the art of synergy between Computer Science and business and loves to broaden his knowledge of the two. <br> Disa received the Computer Science Graduate (Paul V. Renoff) Fellowship and was awarded the UPE Special Recognition Award in (2014).",
-					"academic_standing":"PhD Student",
-					"languages":"Python, C, C++, Java",
-					"hobbies":"Tennis, snowboarding, running, biking",
-					"image":"images/disa_mhembere.jpg"
-				},
-				{
-					"alumni":false,
-					"create_profile":true,
-					"name":"Tze-Yuan Cheng",
-					"interests":"Computer Vision, Robotics",
-					"bio":"Tze-Yuan is a PhD student in mechanical engineering, as well as a Master's student in computer science. His research focuses on algorithmic applications of computer vision in medical infrared imaging.",
-					"academic_standing": "PhD Student",
-					"languages":"Matlab, C, C++",
-					"image":"images/no_image_male.png"
-				},
-				{
-					"alumni":true,
-					"name":"Jeremy Dolinko"
-				},
-				{
-					"alumni":true,
-                                        "create_profile":true,
-					"name":"Ben Cohen",
-                                        "interests":"Programming Languages, Compilers, Type Theory, and generally anything to do with language paradigms and the various choices a language can make that affect its use and 'feel'. Also, anything that has to do with design and 'Software Development' productivity, so things like Design Patterns and other high-level design-based abstraction of common programming solutions.",
-                                        "bio":"Ben graduated with a BS in CS May 2014 and started with Microsoft in the Fall as a Program Manager, working on the Windows Azure platform. While at Hopkins, in regards to CS, he researched under Prof. Scott Smith on the BigBang language (implemented integer and floating point arithmetic into the TinyBang interpreter) and CAed Intermediate Programming with Prof. Yair Amir and UI & Mobile Apps with Prof. Joanne Selinski. He is a big fan of learning new languages, especially ones with unique paradigms, and as a result had a particular love for Prof. Scott Smith's Programming Languages class. Outside of CS, he is a big comedy and theater nut, and hopes to one day do comedy writing on some professional level.",
-                                        "languages":"Haskell, Python, C",
-                                        "hobbies":"Sketch Comedy, Improv, Standup, Theater",
-                                        "image":"images/benjamin_cohen.jpg"
-				},
-				{
-					"alumni":true,
-					"name":"Maxwell Dickey"
-				}
-			]
-		},
-		{
-			"year":"2013",
-			"members":
-			[
-				{
-					"alumni":false,
-					"create_profile":true,
-					"name":"Alexander Schiffhauer",
-					"notes": "President (2014), Secretary",
-					"interests":"Entrepreneurship, Business, and Algorithms",
-					"tutoring":"Algorithms, Compilers &amp; Interpreters",
-					"bio":"Alexander is a graduate student and is an aspiring Renaissance Man. He received his B.A. in computer science at Johns Hopkins in 2013. Following this, he took a year off graduate school to pursue his entrepreneurial aspirations at SecretNewCo in Timonium, MD. He is excited by new hardware and software, and he hopes to create something that will someday change our culture. Alexander was a finalist in the Johns Hopkins Business Plan Competition in 2013.",
-					"academic_standing": "Master's Student",
-					"languages":"C#, Java, OCaml",
-					"hobbies":"Travel, photography, weightlifting, basketball, bicycling, and guitar",
-					"image":"images/alexander_schiffhauer.jpg"
-				},
-				{
-					"alumni":true,
-					"name":"Grace Yeo"
-				},
-				{
-					"alumni":true,
-					"name":"Daniel Deutsch"
-				},
-				{
-					"alumni":true,
-                                        "create_profile":true,
-					"name":"David Watson",
-                                        "interests":"Compilers, NLP",
-                                        "bio":"David just graduated from Hopkins in 2014, and will be going to Google as my first job. In his words \"I've had an amazing time in the CS department, particularly suffering and loving NLP, as well as Compiler and Interpreters.\"",
-                                        "languages":"Python, C, Java",
-                                        "hobbies":"Hobbies: Biking, surfing, hula hooping",
-                                        "image":"images/no_image_male.png"
-				},
-				{
-					"alumni":true,
-					"name":"Austin Estep"
-				},
-				{
-					"alumni":true,
-					"name":"Bennet Ellis"
-				},
-				{
-					"alumni":true,
-					"name":"Praneeth Saebla"
-				},
-				{
-					"alumni":true,
-					"name":"Paul Martin"
-				},
-				{
-					"alumni":true,
-					"name":"Sharon Li"
-				},
-				{
-					"alumni":true,
-					"name":"Jay DeYong",
-					"notes":"Vice-President"
-				},
-				{
-					"alumni":true,
-					"name":"Jeffrey Dallatezza",
-					"notes":"President"
-				},
-				{
-					"alumni":true,
-					"name":"Daniel Aboloafia"
-				},
-				{
-					"alumni":true,
-					"name":"Emily Dagget"
-				},
-				{
-					"alumni":true,
-					"name":"David Lichtenberg"
-				}
-			]
-		},
-		{
-			"year":"2012",
-			"members":
-			[
-				{
-					"alumni":true,
-					"name":"Alexander Lie"
-				},
-				{
-					"alumni":true,
-					"name":"Juneki Hong",
-                                        "create_profile":true,
-                                        "interests":"Natural Language Processing, Machine Learning",
-                                        "bio":"Juneki completed both his BS and MSE in Computer Science at JHU. He has since migrated to pursue further graduate eduation at Carnegie Mellon University (CMU) in the Fall of 2014. In Juneki's own words \"I am a fungi\".",
-                                        "languages":"Python, Prolog, English",
-                                        "hobbies":"Video games, configuring my laptop to my preference, learning something",
-                                        "image":"images/juneki_hong.jpg"
-				},
-				{
-					"alumni":true,
-					"name":"Noah Belcher"
-				},
-				{
-					"alumni":true,
-					"name":"Vincent Ng"
-				},
-				{
-					"alumni":true,
-					"name":"Martin Kelly"
-				},
-				{
-					"alumni":true,
-					"name":"Kelly Wu"
-				},
-				{
-					"alumni":true,
-					"name":"Ishwar Sivakumar"
-				},
-				{
-					"alumni":true,
-					"name":"Henry Pao"
-				},
-				{
-					"alumni":true,
-					"name":"Daniel Obenshain"
-				},
-				{
-					"alumni":true,
-					"name":"Jay Feldman"
-				}
-			]
-		},
-		{
-			"year":"2011",
-			"members":
-			[
-				{
-					"alumni":true,
-					"name":"Courtney Napoles"
-				},
-				{
-					"alumni":true,
-					"name":"Haluk Tokgozoghu",
-					"notes":"Secretary"
-				},
-				{
-					"alumni":false,
-					"create_profile":true,
-					"name":"Michael Rushanan",
-					"notes":"President (2012)",
-					"interests":"Computer Security, Cryptography, Embedded Systems",
-					"bio":"Micheal is a Ph.D. student at the Johns Hopkins University in the Health and Medical Security Lab (HMS). Micheal's research focus is medical device security and privacy. He is a self-described technologist and enjoys open source software development and hardware hobbyism.",
-					"academic_standing": "PhD Student",
-					"languages":"Python, C, Go",
-					"hobbies":"Running, Video Gaming, Open Source Software and Electronics Development",
-					"image":"images/micheal_rushanan.png"
-				},
-				{
-					"alumni":true,
-					"name":"Elizabeth Cha"
-				},
-				{
-					"alumni":true,
-					"name":"Alexander Ropson"
-				},
-				{
-					"alumni":true,
-					"name":"Joel Scaria"
-				},
-				{
-					"alumni":true,
-					"name":"Kirina Magie"
-				},
-				{
-					"alumni":true,
-					"name":"Leah Harsion"
-				},
-				{
-					"alumni":true,
-					"name":"Luwei Zhou"
-				},
-				{
-					"alumni":true,
-					"name":"Jeremy Weiss"
-				},
-				{
-					"alumni":true,
-					"name":"Stephyn Brtchel"
-				},
-				{
-					"alumni":true,
-					"name":"Jonathan Schwam",
-					"notes":"Vice-President"
-				},
-				{
-					"alumni":true,
-					"name":"James Doverspike"
-				},
-				{
-					"alumni":true,
-					"name":"Jonathan Satira"
-				}
-			]
-		},
-		{
-			"year":"2010",
-			"members":
-			[
-				{
-					"alumni":true,
-					"name":"Sohel Sangani"
-				},
-				{
-					"alumni":true,
-                                        "create_profile":true,
-					"name":"Yun Liu",
-                                        "bio":" Yun received his B.S. in biology and commputer science from Johns Hopkins University in 2010. He is currently working towards a Ph.D. in the Harvard-MIT Division of Health Sciences and Technology (HST), co-advised by Professors Collin Stultz and John Guttag. His research experience spanned molecular virology, bioinformatics and computational chemistry. Yun's current research revolves around cardiovascular risk stratification, but he is also interested in other medical big data fields.",
-                                        "interests":"Medical big data",
-					"languages":"Python",
-					"image":"images/no_image_male.png"
-				},
-				{
-					"alumni":true,
-					"name":"Evan Goldschmidt"
-				},
-				{
-					"alumni":true,
-					"name":"Eddie Holzinger"
-				},
-				{
-					"alumni":true,
-					"name":"Ryan Ly"
-				},
-				{
-					"alumni":true,
-					"name":"Matthew Ziegellbaum"
-				},
-				{
-					"alumni":true,
-					"name":"Matthew Pagano"
-				},
-				{
-					"alumni":true,
-					"name":"Lauren Bradel"
-				},
-				{
-					"alumni":true,
-					"name":"Maria Ayad"
-				},
-				{
-					"alumni":true,
-					"name":"Chancellor Pascale"
-				},
-				{
-					"alumni":true,
-					"name":"Zhenyu Chen"
-				}
-			]
-		},
-		{
-			"year":"2009",
-			"members":
-			[
-				{
-					"alumni":true,
-					"name":"Manaswi Gupta",
-					"notes":"Secretary"
-				},
-				{
-					"alumni":true,
-					"name":"John Hioknan"
-				},
-				{
-					"alumni":true,
-					"name":"William Prin III"
-				},
-				{
-					"alumni":true,
-					"name":"Emily DiDonato"
-				},
-				{
-					"alumni":true,
-					"name":"Robert Doverspike",
-					"notes":"President"
-				},
-				{
-					"alumni":true,
-					"name":"Arthur Dassh"
-				},
-				{
-					"alumni":true,
-					"name":"Aaron Mannenbach"
-				},
-				{
-					"alumni":true,
-					"name":"H. Parker Shelton",
-					"notes":"Vice-President"
-				},
-				{
-					"alumni":true,
-					"name":"James Gettinger"
-				}
-			]
-		},
-		{
-			"year":"2008",
-			"members":
-			[
-				{
-					"alumni":true,
-					"name":"Eric Ngao"
-				},
-				{
-					"alumni":true,
-					"name":"Mitchell Williams",
-					"notes":"Vice-President"
-				},
-				{
-					"alumni":true,
-					"name":"Cole Strode"
-				},
-				{
-					"alumni":true,
-					"name":"Crystal Chemn"
-				}
-			]
-		},
-		{
-			"year":"2007",
-			"members":
-			[
-				{
-					"alumni":true,
-					"name":"Chris Johns"
-				},
-				{
-					"alumni":true,
-					"name":"Jonathan Polirer"
-				},
-				{
-					"alumni":true,
-					"name":"Brendan O'Connor",
-					"notes":"Vice-President"
-				},
-				{
-					"alumni":true,
-					"name":"Rodwitt Lai",
-					"notes":"Secretary"
-				},
-				{
-					"alumni":true,
-					"name":"Terence Lee"
-				}
-			]
-		},
-		{
-			"year":"2006",
-			"members":
-			[
-				{
-					"alumni":true,
-					"name":"Michael Constantinos"
-				},
-				{
-					"alumni":true,
-					"name":"Yair Flicker",
-                                        "create_profile":true,
-                                        "bio":"I studied at JHU from 2001 - 2006 and received BS/MSE degrees in CS. While in school I started my company <a href=\"http://smartlogic.io/\">SmartLogic</a>. We build custom web / mobile based software.",
-                                        "interests":"Applications, Systems, Protocols, Programming Languages",
-					"languages":"C, Python/Perl, Functional",
-					"hobbies":"Biking, running, networking, travelling",
-					"image":"images/yair_flicker.jpg"
-				},
-				{
-					"alumni":true,
-					"name":"Joanna Kochaniak"
-				},
-				{
-					"alumni":true,
-					"name":"Andrew Levy"
-				},
-				{
-					"alumni":true,
-					"name":"Samuel Huay"
-				},
-				{
-					"alumni":true,
-					"name":"Jonathan Lasko",
-					"notes":"President"
-				},
-				{
-					"alumni":true,
-					"name":"Safiullah Shareef"
-				},
-				{
-					"alumni":true,
-					"name":"Zachary Scott"
-				},
-				{
-					"alumni":true,
-					"name":"James Stephan"
-				},
-				{
-					"alumni":true,
-					"name":"Joseph Romano"
-				},
-				{
-					"alumni":true,
-					"name":"Raaid Ahmad"
-				},
-				{
-					"alumni":true,
-					"name":"Venkat Bhac-Avatula"
-				},
-				{
-					"alumni":true,
-					"name":"Jeffrey Dvornek"
-				},
-				{
-					"alumni":true,
-					"name":"Peter Frohlich",
-					"notes":"Senior Lecturer"
-				}
-			]
-		},
-		{
-			"year":"2004",
-			"members":
-			[
-				{
-					"alumni":true,
-					"name":"John Trupiano"
-				},
-				{
-					"alumni":true,
-					"name":"Jonathan Grover"
-				},
-				{
-					"alumni":true,
-					"name":"Danico Scepanovic"
-				},
-				{
-					"alumni":true,
-					"name":"Andrew Pile"
-				},
-				{
-					"alumni":true,
-					"name":"Nilchil Palekar"
-				},
-				{
-					"alumni":true,
-					"name":"Chris Auyeung"
-				},
-				{
-					"alumni":true,
-					"name":"David Carrick"
-				},
-				{
-					"alumni":true,
-					"name":"Joanne Tsui"
-				},
-				{
-					"alumni":true,
-					"name":"Charalambos Antonia"
-				},
-				{
-					"alumni":true,
-					"name":"Benny Tsai"
-				},
-				{
-					"alumni":true,
-					"name":"Jon Morra"
-				},
-				{
-					"alumni":true,
-					"name":"Michael Balazs"
-				},
-				{
-					"alumni":true,
-					"name":"John Rittenhouse"
-				}
-			]
-		},
-		{
-			"year":"2003",
-			"members":
-			[
-				{
-					"alumni":true,
-					"name":"James Zarfoss"
-				},
-				{
-					"alumni":true,
-					"name":"Lauren Rosenblatt"
-				},
-				{
-					"alumni":true,
-					"name":"Svetlana Minia"
-				},
-				{
-					"alumni":true,
-					"name":"Nathaniel Duca"
-				},
-				{
-					"alumni":true,
-					"name":"Hadi Husain"
-				}
-			]
-		},
-		{
-			"year":"2002",
-			"members":
-			[
-				{
-					"alumni":true,
-					"name":"Michael Mattozzi"
-				},
-				{
-					"alumni":true,
-					"name":"Alvin Ting"
-				},
-				{
-					"alumni":true,
-					"name":"Hashima Munjal"
-				},
-				{
-					"alumni":true,
-					"name":"Peter Keeler",
-					"notes":"Vice-President"
-				},
-				{
-					"alumni":true,
-					"name":"Ryan Caudy",
-					"notes":"Secretary"
-				},
-				{
-					"alumni":true,
-					"name":"Darren Davis"
-				},
-				{
-					"alumni":true,
-					"name":"Michael Hilsdale"
-				},
-				{
-					"alumni":true,
-					"name":"Jason Gordon"
-				},
-				{
-					"alumni":true,
-					"name":"John Cramp"
-				},
-				{
-					"alumni":true,
-					"name":"Phillip Chiu"
-				},
-				{
-					"alumni":true,
-					"name":"Siddharth Sonrexa"
-				},
-				{
-					"alumni":true,
-					"name":"Roy Lirov"
-				},
-				{
-					"alumni":true,
-					"name":"Adam Dziorny"
-				},
-				{
-					"alumni":true,
-					"name":"Chuck Crow",
-					"notes":"President"
-				}
-			]
-		},
-		{
-			"year":"2001",
-			"members":
-			[
-				{
-					"alumni":true,
-					"name":"Dr. Joanne F. Selinski",
-					"notes":"Associate Teaching Professor"
-				},
-				{
-					"alumni":true,
-					"name":"John Stoneham"
-				},
-				{
-					"alumni":true,
-					"name":"Joshua Freedman"
-				},
-				{
-					"alumni":true,
-					"name":"Robert Yashinski Jr."
-				},
-				{
-					"alumni":true,
-					"name":"Matthew Michaelson"
-				},
-				{
-					"alumni":true,
-					"name":"Max Smolens"
-				},
-				{
-					"alumni":true,
-					"name":"Michael Tabernero"
-				},
-				{
-					"alumni":true,
-					"name":"Stephan Lee"
-				},
-				{
-					"alumni":true,
-					"name":"Jeremy Mihlich"
-				},
-				{
-					"alumni":true,
-					"name":"Nettie Vasbindi"
-				},
-				{
-					"alumni":true,
-					"name":"Kanishik Parashar"
-				},
-				{
-					"alumni":true,
-					"name":"Peter Magic"
-				},
-				{
-					"alumni":true,
-					"name":"Julian Suirsky"
-				}
-			]
-		},
-		{
-			"year":"2000",
-			"members":
-			[
-				{
-					"alumni":true,
-					"name":"Dr. Scott Smith",
-					"notes":"Professor"
-				},
-				{
-					"alumni":true,
-					"name":"William Chang"
-				},
-				{
-					"alumni":true,
-					"name":"Catherine Clark"
-				},
-				{
-					"alumni":true,
-					"name":"Reid Badgett"
-				},
-				{
-					"alumni":true,
-					"name":"Lilian Diaz"
-				},
-				{
-					"alumni":true,
-					"name":"Dennis Cheung"
-				},
-				{
-					"alumni":true,
-					"name":"Jeffrey Lee"
-				},
-				{
-					"alumni":true,
-					"name":"James Miller"
-				},
-				{
-					"alumni":true,
-					"name":"Dale Chah"
-				},
-				{
-					"alumni":true,
-					"name":"Phillip Lawton"
-				},
-				{
-					"alumni":true,
-					"name":"Touby Drew"
-				},
-				{
-					"alumni":true,
-					"name":"Charles O'Rourke"
-				},
-				{
-					"alumni":true,
-					"name":"Charles Hung"
-				},
-				{
-					"alumni":true,
-					"name":"Alexandra Heron"
-				},
-				{
-					"alumni":true,
-					"name":"Scott Lipcon"
-				},
-				{
-					"alumni":true,
-					"name":"Joel Sandin"
-				},
-				{
-					"alumni":true,
-					"name":"Ryan Brown"
-				},
-				{
-					"alumni":true,
-					"name":"Stuart Jackson"
-				},
-				{
-					"alumni":true,
-					"name":"Suzanne Sheerin"
-				}
-			]
-		}
-	]
+{  
+    "years":[  
+        {  
+            "year":"2014",
+            "members":[  
+                {  
+                    "alumni":false,
+                    "create_profile":true,
+                    "name":"Carlo Olcese",
+                    "notes":"",
+                    "interests":"Entrepreneurship, Genomics, Finance",
+                    "tutoring":"Data Structures, Algorithms",
+                    "bio":"Carlo enjoys software development and solving problems with computers.  Over the past 2 summers he worked as a software engineer at two finance firms: Standard &amp; Poor's Capital IQ (https://www.capitaliq.com/) and Goldman Sachs (http://www.goldmansachs.com/). He has also taken a number of upper level CS classes and is currently a concurrent BS/MS at Hopkins for computer science. He plans to finish his Master's in the fall of 2015. He has been a course assistant for Intro to Java, Objected Oriented Software Engineering, and Compilers/Interpreters. Besides his work in CS, he is currently the layout editor for the undergraduate philosophy journal. He is still not sure what he wants to pursue after graduation, but he will be joining a start-up in NYC for the Summer of 2015.",
+                    "academic_standing":"Bachelor's & Master's Student",
+                    "languages":"Java, Python, C++, Perl",
+                    "hobbies":"Weight Lifting, App. development, and basketball",
+                    "image":"images/carlo_olcese.jpg"
+                },
+                {  
+                    "alumni":false,
+                    "create_profile":true,
+                    "name":"Tuvia Lerea",
+                    "notes":"Vice-President",
+                    "interests":"Security and Privacy",
+                    "tutoring":"Computer System Fundamentals, Intermediate Programming",
+                    "bio":"Tuvia graduated from SAR high school in The Bronx, NY. He then took a year off between high school and college, during which he studied in an Israeli pre-army programming institution for several months, and worked in a PTSD lab for 9 months. He came to JHU as a Neuroscience major, but after taking Intro Java he fell in love with programming. He transitioned to the CS major in the second semester of his sophomore year. Since switching to CS he joined Bootup Baltimore as well as the HopHacks team. Upon graduation, he intends to continue on at Hopkins to pursue his Masters degree in Computer Science. <br> Tuvia frequents the Dean's List and is currently the UPE Vice President.",
+                    "academic_standing":"Bachelor's Student",
+                    "languages":"Java, C, Javascript",
+                    "hobbies":"Programming, StarCraft, Bootup Baltimore, skiing",
+                    "image":"images/tuvia_lerea.jpg"
+                },
+                {  
+                    "alumni":true,
+                    "name":"Benjamin Glickman",
+                    "notes":"Treasurer"
+                },
+                {  
+                    "alumni":true,
+                    "name":"Gregory Furman"
+                },
+                {  
+                    "alumni":true,
+                    "name":"Charles Seidell",
+                    "create_profile":true,
+                    "interests":"Algorithms, NLP, Machine Learning, Automata and Computational Theory",
+                    "bio":"Charlie is a recent graduate from Johns Hopkins University as a member of the class of 2014. He studied mathematics, computer science, and the classics and is currently working as a software engineer at Epic in Madison Wisconsin. He loves to read, swim, and play videogames. He received the CS +X Award, achieved 8x Semesters on Deans List, and the Pistritto Fellowship",
+                    "languages":"Python, C, Latin",
+                    "hobbies":"Magic: The Gathering, Videogames, Reading, Tennis",
+                    "image":"images/charles_seidell.jpg"
+                },
+                {  
+                    "alumni":false,
+                    "create_profile":true,
+                    "name":"Disa Mhembere",
+                    "notes":"Secretary",
+                    "interests":"Data-Intensive Scientific Computing, Parallel Programming, Compilers and Interpreters, Web-programming.",
+                    "tutoring":"Data Structures, Parallel Programming",
+                    "bio":"Disa is PhD student in Computer Science (CS) at the Johns Hopkins University where he researches under Prof. Randal Burns in the Hopkins Storages Systems Lab. He is the current Sectretary of the Hopkins UPE chapter. He obtained his BS in Electrical Engineering and proceeded to complete his MSE in Engeering Management (with CS concentration) before joining the CS department full-time and obtaining his MSE in CS in 2015. He is student of the art of synergy between Computer Science and business and loves to broaden his knowledge of the two. <br> Disa received the Computer Science Graduate (Paul V. Renoff) Fellowship and was awarded the UPE Special Recognition Award in (2014).",
+                    "academic_standing":"PhD Student",
+                    "languages":"Python, C, C++, Java",
+                    "hobbies":"Tennis, snowboarding, running, biking",
+                    "image":"images/disa_mhembere.jpg"
+                },
+                {  
+                    "alumni":false,
+                    "create_profile":true,
+                    "name":"Tze-Yuan Cheng",
+                    "interests":"Computer Vision, Robotics",
+                    "bio":"Tze-Yuan is a PhD student in mechanical engineering, as well as a Master's student in computer science. His research focuses on algorithmic applications of computer vision in medical infrared imaging.",
+                    "academic_standing":"PhD Student",
+                    "languages":"Matlab, C, C++",
+                    "image":"images/no_image_male.png"
+                },
+                {  
+                    "alumni":true,
+                    "name":"Jeremy Dolinko"
+                },
+                {  
+                    "alumni":true,
+                    "create_profile":true,
+                    "name":"Ben Cohen",
+                    "interests":"Programming Languages, Compilers, Type Theory, and generally anything to do with language paradigms and the various choices a language can make that affect its use and 'feel'. Also, anything that has to do with design and 'Software Development' productivity, so things like Design Patterns and other high-level design-based abstraction of common programming solutions.",
+                    "bio":"Ben graduated with a BS in CS May 2014 and started with Microsoft in the Fall as a Program Manager, working on the Windows Azure platform. While at Hopkins, in regards to CS, he researched under Prof. Scott Smith on the BigBang language (implemented integer and floating point arithmetic into the TinyBang interpreter) and CAed Intermediate Programming with Prof. Yair Amir and UI & Mobile Apps with Prof. Joanne Selinski. He is a big fan of learning new languages, especially ones with unique paradigms, and as a result had a particular love for Prof. Scott Smith's Programming Languages class. Outside of CS, he is a big comedy and theater nut, and hopes to one day do comedy writing on some professional level.",
+                    "languages":"Haskell, Python, C",
+                    "hobbies":"Sketch Comedy, Improv, Standup, Theater",
+                    "image":"images/benjamin_cohen.jpg"
+                },
+                {  
+                    "alumni":true,
+                    "name":"Maxwell Dickey"
+                }
+            ]
+        },
+        {  
+            "year":"2013",
+            "members":[  
+                {  
+                    "alumni":false,
+                    "create_profile":true,
+                    "name":"Alexander Schiffhauer",
+                    "notes":"President (2014), Secretary",
+                    "interests":"Entrepreneurship, Business, and Algorithms",
+                    "tutoring":"Algorithms, Compilers &amp; Interpreters",
+                    "bio":"Alexander is a graduate student and an aspiring Renaissance Man. He received his B.A. in Computer Science at The Johns Hopkins University in 2013. Following this, he took a year off graduate school to pursue his entrepreneurial aspirations at <a href='http://www.bighugegames.com'>Big Huge Games</a> in Timonium, MD. He is excited by new hardware and software, and he hopes to create something that will someday change our culture. Alexander was a finalist in the Johns Hopkins Business Plan Competition in 2013.",
+                    "academic_standing":"Master's Student",
+                    "languages":"C#, Java, OCaml",
+                    "hobbies":"Travel, photography, weightlifting, basketball, bicycling, and guitar",
+                    "image":"images/alexander_schiffhauer.jpg"
+                },
+                {  
+                    "alumni":true,
+                    "name":"Grace Yeo"
+                },
+                {  
+                    "alumni":true,
+                    "name":"Daniel Deutsch"
+                },
+                {  
+                    "alumni":true,
+                    "create_profile":true,
+                    "name":"David Watson",
+                    "interests":"Compilers, NLP",
+                    "bio":"David just graduated from Hopkins in 2014, and will be going to Google as my first job. In his words \"I've had an amazing time in the CS department, particularly suffering and loving NLP, as well as Compiler and Interpreters.\"",
+                    "languages":"Python, C, Java",
+                    "hobbies":"Hobbies: Biking, surfing, hula hooping",
+                    "image":"images/no_image_male.png"
+                },
+                {  
+                    "alumni":true,
+                    "name":"Austin Estep"
+                },
+                {  
+                    "alumni":true,
+                    "name":"Bennet Ellis"
+                },
+                {  
+                    "alumni":true,
+                    "name":"Praneeth Saebla"
+                },
+                {  
+                    "alumni":true,
+                    "name":"Paul Martin"
+                },
+                {  
+                    "alumni":true,
+                    "name":"Sharon Li"
+                },
+                {  
+                    "alumni":true,
+                    "name":"Jay DeYong",
+                    "notes":"Vice-President"
+                },
+                {  
+                    "alumni":true,
+                    "name":"Jeffrey Dallatezza",
+                    "notes":"President"
+                },
+                {  
+                    "alumni":true,
+                    "name":"Daniel Aboloafia"
+                },
+                {  
+                    "alumni":true,
+                    "name":"Emily Dagget"
+                },
+                {  
+                    "alumni":true,
+                    "name":"David Lichtenberg"
+                }
+            ]
+        },
+        {  
+            "year":"2012",
+            "members":[  
+                {  
+                    "alumni":true,
+                    "name":"Alexander Lie"
+                },
+                {  
+                    "alumni":true,
+                    "name":"Juneki Hong",
+                    "create_profile":true,
+                    "interests":"Natural Language Processing, Machine Learning",
+                    "bio":"Juneki completed both his BS and MSE in Computer Science at JHU. He has since migrated to pursue further graduate eduation at Carnegie Mellon University (CMU) in the Fall of 2014. In Juneki's own words \"I am a fungi\".",
+                    "languages":"Python, Prolog, English",
+                    "hobbies":"Video games, configuring my laptop to my preference, learning something",
+                    "image":"images/juneki_hong.jpg"
+                },
+                {  
+                    "alumni":true,
+                    "name":"Noah Belcher"
+                },
+                {  
+                    "alumni":true,
+                    "name":"Vincent Ng"
+                },
+                {  
+                    "alumni":true,
+                    "name":"Martin Kelly"
+                },
+                {  
+                    "alumni":true,
+                    "name":"Kelly Wu"
+                },
+                {  
+                    "alumni":true,
+                    "name":"Ishwar Sivakumar"
+                },
+                {  
+                    "alumni":true,
+                    "name":"Henry Pao"
+                },
+                {  
+                    "alumni":true,
+                    "name":"Daniel Obenshain"
+                },
+                {  
+                    "alumni":true,
+                    "name":"Jay Feldman"
+                }
+            ]
+        },
+        {  
+            "year":"2011",
+            "members":[  
+                {  
+                    "alumni":true,
+                    "name":"Courtney Napoles"
+                },
+                {  
+                    "alumni":true,
+                    "name":"Haluk Tokgozoghu",
+                    "notes":"Secretary"
+                },
+                {  
+                    "alumni":false,
+                    "create_profile":true,
+                    "name":"Michael Rushanan",
+                    "notes":"President (2012)",
+                    "interests":"Computer Security, Cryptography, Embedded Systems",
+                    "bio":"Micheal is a Ph.D. student at the Johns Hopkins University in the Health and Medical Security Lab (HMS). Micheal's research focus is medical device security and privacy. He is a self-described technologist and enjoys open source software development and hardware hobbyism.",
+                    "academic_standing":"PhD Student",
+                    "languages":"Python, C, Go",
+                    "hobbies":"Running, Video Gaming, Open Source Software and Electronics Development",
+                    "image":"images/micheal_rushanan.png"
+                },
+                {  
+                    "alumni":true,
+                    "name":"Elizabeth Cha"
+                },
+                {  
+                    "alumni":true,
+                    "name":"Alexander Ropson"
+                },
+                {  
+                    "alumni":true,
+                    "name":"Joel Scaria"
+                },
+                {  
+                    "alumni":true,
+                    "name":"Kirina Magie"
+                },
+                {  
+                    "alumni":true,
+                    "name":"Leah Harsion"
+                },
+                {  
+                    "alumni":true,
+                    "name":"Luwei Zhou"
+                },
+                {  
+                    "alumni":true,
+                    "name":"Jeremy Weiss"
+                },
+                {  
+                    "alumni":true,
+                    "name":"Stephyn Brtchel"
+                },
+                {  
+                    "alumni":true,
+                    "name":"Jonathan Schwam",
+                    "notes":"Vice-President"
+                },
+                {  
+                    "alumni":true,
+                    "name":"James Doverspike"
+                },
+                {  
+                    "alumni":true,
+                    "name":"Jonathan Satira"
+                }
+            ]
+        },
+        {  
+            "year":"2010",
+            "members":[  
+                {  
+                    "alumni":true,
+                    "name":"Sohel Sangani"
+                },
+                {  
+                    "alumni":true,
+                    "create_profile":true,
+                    "name":"Yun Liu",
+                    "bio":" Yun received his B.S. in biology and commputer science from Johns Hopkins University in 2010. He is currently working towards a Ph.D. in the Harvard-MIT Division of Health Sciences and Technology (HST), co-advised by Professors Collin Stultz and John Guttag. His research experience spanned molecular virology, bioinformatics and computational chemistry. Yun's current research revolves around cardiovascular risk stratification, but he is also interested in other medical big data fields.",
+                    "interests":"Medical big data",
+                    "languages":"Python",
+                    "image":"images/no_image_male.png"
+                },
+                {  
+                    "alumni":true,
+                    "name":"Evan Goldschmidt"
+                },
+                {  
+                    "alumni":true,
+                    "name":"Eddie Holzinger"
+                },
+                {  
+                    "alumni":true,
+                    "name":"Ryan Ly"
+                },
+                {  
+                    "alumni":true,
+                    "name":"Matthew Ziegellbaum"
+                },
+                {  
+                    "alumni":true,
+                    "name":"Matthew Pagano"
+                },
+                {  
+                    "alumni":true,
+                    "name":"Lauren Bradel"
+                },
+                {  
+                    "alumni":true,
+                    "name":"Maria Ayad"
+                },
+                {  
+                    "alumni":true,
+                    "name":"Chancellor Pascale"
+                },
+                {  
+                    "alumni":true,
+                    "name":"Zhenyu Chen"
+                }
+            ]
+        },
+        {  
+            "year":"2009",
+            "members":[  
+                {  
+                    "alumni":true,
+                    "name":"Manaswi Gupta",
+                    "notes":"Secretary"
+                },
+                {  
+                    "alumni":true,
+                    "name":"John Hioknan"
+                },
+                {  
+                    "alumni":true,
+                    "name":"William Prin III"
+                },
+                {  
+                    "alumni":true,
+                    "name":"Emily DiDonato"
+                },
+                {  
+                    "alumni":true,
+                    "name":"Robert Doverspike",
+                    "notes":"President"
+                },
+                {  
+                    "alumni":true,
+                    "name":"Arthur Dassh"
+                },
+                {  
+                    "alumni":true,
+                    "name":"Aaron Mannenbach"
+                },
+                {  
+                    "alumni":true,
+                    "name":"H. Parker Shelton",
+                    "notes":"Vice-President"
+                },
+                {  
+                    "alumni":true,
+                    "name":"James Gettinger"
+                }
+            ]
+        },
+        {  
+            "year":"2008",
+            "members":[  
+                {  
+                    "alumni":true,
+                    "name":"Eric Ngao"
+                },
+                {  
+                    "alumni":true,
+                    "name":"Mitchell Williams",
+                    "notes":"Vice-President"
+                },
+                {  
+                    "alumni":true,
+                    "name":"Cole Strode"
+                },
+                {  
+                    "alumni":true,
+                    "name":"Crystal Chemn"
+                }
+            ]
+        },
+        {  
+            "year":"2007",
+            "members":[  
+                {  
+                    "alumni":true,
+                    "name":"Chris Johns"
+                },
+                {  
+                    "alumni":true,
+                    "name":"Jonathan Polirer"
+                },
+                {  
+                    "alumni":true,
+                    "name":"Brendan O'Connor",
+                    "notes":"Vice-President"
+                },
+                {  
+                    "alumni":true,
+                    "name":"Rodwitt Lai",
+                    "notes":"Secretary"
+                },
+                {  
+                    "alumni":true,
+                    "name":"Terence Lee"
+                }
+            ]
+        },
+        {  
+            "year":"2006",
+            "members":[  
+                {  
+                    "alumni":true,
+                    "name":"Michael Constantinos"
+                },
+                {  
+                    "alumni":true,
+                    "name":"Yair Flicker",
+                    "create_profile":true,
+                    "bio":"I studied at JHU from 2001 - 2006 and received BS/MSE degrees in CS. While in school I started my company <a href=\"http://smartlogic.io/\">SmartLogic</a>. We build custom web / mobile based software.",
+                    "interests":"Applications, Systems, Protocols, Programming Languages",
+                    "languages":"C, Python/Perl, Functional",
+                    "hobbies":"Biking, running, networking, travelling",
+                    "image":"images/yair_flicker.jpg"
+                },
+                {  
+                    "alumni":true,
+                    "name":"Joanna Kochaniak"
+                },
+                {  
+                    "alumni":true,
+                    "name":"Andrew Levy"
+                },
+                {  
+                    "alumni":true,
+                    "name":"Samuel Huay"
+                },
+                {  
+                    "alumni":true,
+                    "name":"Jonathan Lasko",
+                    "notes":"President"
+                },
+                {  
+                    "alumni":true,
+                    "name":"Safiullah Shareef"
+                },
+                {  
+                    "alumni":true,
+                    "name":"Zachary Scott"
+                },
+                {  
+                    "alumni":true,
+                    "name":"James Stephan"
+                },
+                {  
+                    "alumni":true,
+                    "name":"Joseph Romano"
+                },
+                {  
+                    "alumni":true,
+                    "name":"Raaid Ahmad"
+                },
+                {  
+                    "alumni":true,
+                    "name":"Venkat Bhac-Avatula"
+                },
+                {  
+                    "alumni":true,
+                    "name":"Jeffrey Dvornek"
+                },
+                {  
+                    "alumni":true,
+                    "name":"Peter Frohlich",
+                    "notes":"Senior Lecturer"
+                }
+            ]
+        },
+        {  
+            "year":"2004",
+            "members":[  
+                {  
+                    "alumni":true,
+                    "name":"John Trupiano"
+                },
+                {  
+                    "alumni":true,
+                    "name":"Jonathan Grover"
+                },
+                {  
+                    "alumni":true,
+                    "name":"Danico Scepanovic"
+                },
+                {  
+                    "alumni":true,
+                    "name":"Andrew Pile"
+                },
+                {  
+                    "alumni":true,
+                    "name":"Nilchil Palekar"
+                },
+                {  
+                    "alumni":true,
+                    "name":"Chris Auyeung"
+                },
+                {  
+                    "alumni":true,
+                    "name":"David Carrick"
+                },
+                {  
+                    "alumni":true,
+                    "name":"Joanne Tsui"
+                },
+                {  
+                    "alumni":true,
+                    "name":"Charalambos Antonia"
+                },
+                {  
+                    "alumni":true,
+                    "name":"Benny Tsai"
+                },
+                {  
+                    "alumni":true,
+                    "name":"Jon Morra"
+                },
+                {  
+                    "alumni":true,
+                    "name":"Michael Balazs"
+                },
+                {  
+                    "alumni":true,
+                    "name":"John Rittenhouse"
+                }
+            ]
+        },
+        {  
+            "year":"2003",
+            "members":[  
+                {  
+                    "alumni":true,
+                    "name":"James Zarfoss"
+                },
+                {  
+                    "alumni":true,
+                    "name":"Lauren Rosenblatt"
+                },
+                {  
+                    "alumni":true,
+                    "name":"Svetlana Minia"
+                },
+                {  
+                    "alumni":true,
+                    "name":"Nathaniel Duca"
+                },
+                {  
+                    "alumni":true,
+                    "name":"Hadi Husain"
+                }
+            ]
+        },
+        {  
+            "year":"2002",
+            "members":[  
+                {  
+                    "alumni":true,
+                    "name":"Michael Mattozzi"
+                },
+                {  
+                    "alumni":true,
+                    "name":"Alvin Ting"
+                },
+                {  
+                    "alumni":true,
+                    "name":"Hashima Munjal"
+                },
+                {  
+                    "alumni":true,
+                    "name":"Peter Keeler",
+                    "notes":"Vice-President"
+                },
+                {  
+                    "alumni":true,
+                    "name":"Ryan Caudy",
+                    "notes":"Secretary"
+                },
+                {  
+                    "alumni":true,
+                    "name":"Darren Davis"
+                },
+                {  
+                    "alumni":true,
+                    "name":"Michael Hilsdale"
+                },
+                {  
+                    "alumni":true,
+                    "name":"Jason Gordon"
+                },
+                {  
+                    "alumni":true,
+                    "name":"John Cramp"
+                },
+                {  
+                    "alumni":true,
+                    "name":"Phillip Chiu"
+                },
+                {  
+                    "alumni":true,
+                    "name":"Siddharth Sonrexa"
+                },
+                {  
+                    "alumni":true,
+                    "name":"Roy Lirov"
+                },
+                {  
+                    "alumni":true,
+                    "name":"Adam Dziorny"
+                },
+                {  
+                    "alumni":true,
+                    "name":"Chuck Crow",
+                    "notes":"President"
+                }
+            ]
+        },
+        {  
+            "year":"2001",
+            "members":[  
+                {  
+                    "alumni":true,
+                    "name":"Dr. Joanne F. Selinski",
+                    "notes":"Associate Teaching Professor"
+                },
+                {  
+                    "alumni":true,
+                    "name":"John Stoneham"
+                },
+                {  
+                    "alumni":true,
+                    "name":"Joshua Freedman"
+                },
+                {  
+                    "alumni":true,
+                    "name":"Robert Yashinski Jr."
+                },
+                {  
+                    "alumni":true,
+                    "name":"Matthew Michaelson"
+                },
+                {  
+                    "alumni":true,
+                    "name":"Max Smolens"
+                },
+                {  
+                    "alumni":true,
+                    "name":"Michael Tabernero"
+                },
+                {  
+                    "alumni":true,
+                    "name":"Stephan Lee"
+                },
+                {  
+                    "alumni":true,
+                    "name":"Jeremy Mihlich"
+                },
+                {  
+                    "alumni":true,
+                    "name":"Nettie Vasbindi"
+                },
+                {  
+                    "alumni":true,
+                    "name":"Kanishik Parashar"
+                },
+                {  
+                    "alumni":true,
+                    "name":"Peter Magic"
+                },
+                {  
+                    "alumni":true,
+                    "name":"Julian Suirsky"
+                }
+            ]
+        },
+        {  
+            "year":"2000",
+            "members":[  
+                {  
+                    "alumni":true,
+                    "name":"Dr. Scott Smith",
+                    "notes":"Professor"
+                },
+                {  
+                    "alumni":true,
+                    "name":"William Chang"
+                },
+                {  
+                    "alumni":true,
+                    "name":"Catherine Clark"
+                },
+                {  
+                    "alumni":true,
+                    "name":"Reid Badgett"
+                },
+                {  
+                    "alumni":true,
+                    "name":"Lilian Diaz"
+                },
+                {  
+                    "alumni":true,
+                    "name":"Dennis Cheung"
+                },
+                {  
+                    "alumni":true,
+                    "name":"Jeffrey Lee"
+                },
+                {  
+                    "alumni":true,
+                    "name":"James Miller"
+                },
+                {  
+                    "alumni":true,
+                    "name":"Dale Chah"
+                },
+                {  
+                    "alumni":true,
+                    "name":"Phillip Lawton"
+                },
+                {  
+                    "alumni":true,
+                    "name":"Touby Drew"
+                },
+                {  
+                    "alumni":true,
+                    "name":"Charles O'Rourke"
+                },
+                {  
+                    "alumni":true,
+                    "name":"Charles Hung"
+                },
+                {  
+                    "alumni":true,
+                    "name":"Alexandra Heron"
+                },
+                {  
+                    "alumni":true,
+                    "name":"Scott Lipcon"
+                },
+                {  
+                    "alumni":true,
+                    "name":"Joel Sandin"
+                },
+                {  
+                    "alumni":true,
+                    "name":"Ryan Brown"
+                },
+                {  
+                    "alumni":true,
+                    "name":"Stuart Jackson"
+                },
+                {  
+                    "alumni":true,
+                    "name":"Suzanne Sheerin"
+                }
+            ]
+        }
+    ]
 }
