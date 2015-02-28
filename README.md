@@ -24,7 +24,7 @@ This repository is The Johns Hopkins University's chapter's [website](https://ac
     "image": "images/alan_turing.jpg"
 }]
 ```
-* Running `python members.py` will modify `members.html` such that `members.html` includes references to this new member.  If `create_profile:true` is defined in `members.json`, this script will also create the profile page for this user with the supplied data.
+* Running `python members.py` will modify `members.html` such that `members.html` includes references to this new member.  If `create_profile:true` is defined in `members.json`, this script will also create the profile page for this member.
 
 ### Changing Members
 * Open `members.json` and find the desired member.  Change the appropriate fields and run `python members.py`.
@@ -33,14 +33,14 @@ This repository is The Johns Hopkins University's chapter's [website](https://ac
 * Membership to UPE is for life.  However, if you have made an error, simply remove a member from `members.json` and run `python members.py`
 
 ### Publishing
-* Publishing requires write access to the ACM group UPE.  This is reserved only for the executive branch of our chapter.  To publish changes, `chmod + x publish.sh && ./publish.sh`. 
+* Publishing requires write access to the UPE group on the ACM servers.  Note that this is generally reserved only for the executive branch of our chapter.  To publish changes, `chmod + x publish.sh && ./publish.sh`. 
 	- Note that this script will invoke `python members.py` automatically, ensuring the latest changes are pushed.
 
 ## File Overview
 
 * `css/` is the folder that contains all css used by this website.
     - Modify `css/custom.css` for any changes to the website's styling.
-    - Do not touch `css/skeleeton.css` or `css/normalize.css` as these will be updated without warning.
+    - Do not touch `css/skeleton.css` or `css/normalize.css` as these will be updated without warning.
 * `faculty.html` displays the faculty advisors for our chapter.
 * `images/` contains all images (including member pictures) used by this website.
 * `index.html` is the main web page.
@@ -49,10 +49,10 @@ This repository is The Johns Hopkins University's chapter's [website](https://ac
 	- This folder is deleted and re-created each time `members.py` is run.  Do not touch anything in it; otherwise, you will lose your changes.
 * `members.html` displays all of our members (including alumni). The data for this web page is populated by `members.html.template` and `members.py`.
 * `members.html.template` is the template used for our members page.  Strings of the form `$KEY$` are dynamically inserted when `members.py` is run.
-* `members.json` is the database for our chapter's members. More documentation and a schema will arrive, eventually.
+* `members.json` is the database for our chapter's members.
 * `members.py` parses `members.json` and builds
 	- `members.html`, which displays our chapter's members in a table.
-	-`members/$MEMBER`, which is $MEMBER's personal page.
+	- `members/$MEMBER`, which is `$MEMBER`'s personal page.
 * `publish.sh` is a script that uses rsync to publish changes to the server.  Note that this script will invoke `python members.py` automatically, ensuring the latest changes are pushed.
 * `requirements.html` displays the requirements for joining our chapter.
 
