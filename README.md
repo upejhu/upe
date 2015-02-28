@@ -2,28 +2,28 @@
 
 Upsilon Pi Epsilon (UPE): International Honor Society for the Computing and Information Disciplines is the first honor society dedicated to the discipline of computer information systems and computer science.
 
-This repository is The Johns Hopkins University's chapter's website.  If you're a current member or alumni, please feel free to contribute by making a pull request.
+This repository is The Johns Hopkins University's chapter's [website](https://acm.jhu.edu/~upe "Upsilon Pi Epsilon").  If you're a current member or alumni, please feel free to contribute by making a pull request.
 
 ## Documentation
 
 ### Adding Members
 * Open `members.json`.  Find the `year` in which the member was inducted (or create a new year for a new class).  Fill in appropriate data for the appropriate year, using previous examples as a reference.  Below is a blueprint for a year comprising exactly one hypothetical member:
-	- 	```
-            "year":"1912",
-            "members":[{  
-	            "alumni":true,
-	            "create_profile":true,
-	            "name":"Alan Turing",
-	            "notes":"Father of Computer Science",
-	            "interests":"Mathematics, cryptanalysis, computer science, Biology",
-	            "tutoring":"Modern Cryptography, Automata and Computational Theory",
-	            "bio":"Alan Turing was a British pioneering computer scientist, mathematician, logician, cryptanalyst, philosopher, mathematical biologist, and marathon and ultra distance runner. ",
-	            "academic_standing":"PhD, Princeton University",
-	            "languages":"Automaton",
-	            "hobbies":"Cracking cryptographic messages",
-	            "image":"images/alan_turing.jpg"
-            }]
-		```
+	```
+	"year":"1912",
+	"members":[{  
+		"alumni":true,
+		"create_profile":true,
+		"name":"Alan Turing",
+		"notes":"Father of Computer Science",
+		"interests":"Mathematics, cryptanalysis, computer science, Biology",
+		"tutoring":"Modern Cryptography, Automata and Computational Theory",
+		"bio":"Alan Turing was a British pioneering computer scientist, mathematician, logician, cryptanalyst, philosopher, mathematical biologist, and marathon and ultra distance runner. ",
+		"academic_standing":"PhD, Princeton University",
+		"languages":"Automaton",
+		"hobbies":"Cracking cryptographic messages",
+		"image":"images/alan_turing.jpg"
+	}]
+	```
 * Running `python members.py` will modify `members.html` such that `members.html` includes references to this new member.  If `create_profile:true` is defined in `members.json`, this script will also create the profile page for this user with the supplied data.
 
 ### Changing Members
