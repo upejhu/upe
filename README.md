@@ -7,7 +7,7 @@ This repository is The Johns Hopkins University's chapter's [website](https://ac
 ## Documentation
 
 ### Adding Members
-* Open `members.json`.  Find the `year` in which the member was inducted (or create a new year for a new class).  Fill in appropriate data for the appropriate year, using previous examples as a reference.  Below is a blueprint for a year comprising exactly one hypothetical member:
+* Open `members.json`.  Find the `year` in which the member was inducted (or create a new year for a new class).  Fill in appropriate data for the appropriate members, using previous examples as a reference.  Below is a blueprint for a year comprising exactly one hypothetical member:
 ```json
 "year": "1912",
 "members": [{
