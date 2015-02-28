@@ -70,6 +70,7 @@ KISS.
 ## Build/Publish Requirements
 * Python 2.7
 * rsync
+* Write privileges to the UPE group on the ACM servers
 
 ## Contributions
 
