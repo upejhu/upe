@@ -2,7 +2,7 @@
 
 Upsilon Pi Epsilon (UPE): International Honor Society for the Computing and Information Disciplines is the first honor society dedicated to the discipline of computer information systems and computer science.
 
-This repository is The Johns Hopkins University's chapter's [website](https://acm.jhu.edu/~upe "Upsilon Pi Epsilon").  If you're a current member or alumni, please feel free to contribute by making a pull request.
+This repository is The Johns Hopkins University's chapter's [website](https://www.acm.jhu.edu/~upe "Upsilon Pi Epsilon").  If you're a current member or alumni, please feel free to contribute by making a pull request.
 
 ## Documentation
 
