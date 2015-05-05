@@ -1,0 +1,101 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+	<!-- Metadata
+	–––––––––––––––––––––––––––––––––––––––––––––––––– -->
+	<meta charset="utf-8">
+	<title>Upsilon Pi Epsilon</title>
+	<meta name="description" content="Upsilon Pi Epsilon, The Johns Hopkins University Chapter">
+	<meta name="author" content="Alexander Schiffhauer">
+	<meta name="viewport" content="width=device-width, initial-scale=1">
+
+	<!-- Font
+	–––––––––––––––––––––––––––––––––––––––––––––––––– -->
+	<link rel='stylesheet' href='http://fonts.googleapis.com/css?family=Raleway:400,300,600' type='text/css' >
+
+	<!-- CSS
+	–––––––––––––––––––––––––––––––––––––––––––––––––– -->
+	<link rel="stylesheet" href="css/normalize.css">
+	<link rel="stylesheet" href="css/skeleton.css">
+	<link rel="stylesheet" href="css/custom.css">
+
+	<!-- Favicon
+	–––––––––––––––––––––––––––––––––––––––––––––––––– -->
+	<link rel="icon" href="images/favicon.ico" type="image/x-icon">
+</head>
+<body>
+  <!-- Header
+  –––––––––––––––––––––––––––––––––––––––––––––––––– -->
+	<div class="blue">
+	<div class="container">
+		<div class="row">
+			<div class="twelve columns" style="margin-top: 5%;">
+			  <img src="images/jhu.png"/>
+			</div>
+		</div>
+			<div class="row" style="margin-top: 4%">
+			<div class="eight columns offset-by-two">
+				<p>Upsilon Pi Epsilon (UPE): International Honor Society for the Computing and Information Disciplines is the first honor society dedicated to the discipline of computer information systems and computer science.</p>
+			</div>
+		</div>
+	</div>
+	</div>
+	<!-- About us
+	–––––––––––––––––––––––––––––––––––––––––––––––––– -->
+	<div class="white">
+		<div class="container">
+			<form action="register" method="post" enctype="multipart/form-data">
+				<div class="row" style="margin-top: 2%">
+					<div class="four columns offset-by-two">
+						<label>name</label>
+						<input class="wide" type="text" placeholder="John Appleseed" name="user[name]"/>
+					</div>
+					<div class="four columns">
+						<label>academic interests</label>
+						<input class="wide" type="text" placeholder="Genomics, Algorithms, Big Data..." name="user[interests]"/>
+					</div>
+					<div class="four columns offset-by-two">
+						<label>tutoring</label>
+						<input class="wide" type="text" placeholder="Data Structures, Algorithms..." name="user[tutoring]"/>
+					</div>
+					<div class="four columns">
+						<label>academic standing</label>
+						<input class="wide" type="text" placeholder="Bachelor's/Master's/PhD Student" name="user[academic_standing]"/>
+					</div>
+					<div class="four columns offset-by-two">
+						<label>programming languages</label>
+						<input class="wide" type="text" placeholder="Java, Python, C..." name="user[languages]"/>
+					</div>
+					<div class="four columns">
+						<label>hobbies</label>
+						<input class="wide" type="text" placeholder="reading, painting, piano..." name="user[hobbies]"/>
+					</div>
+					<div class="eight columns offset-by-two">
+						<label>bio</label>
+						<textarea class="wide" placeholder="In West Philadelphia, born and raised. On the playground is where I spent most of my days. Chillin' out, maxin', relaxin' all cool..." id="user[bio]"></textarea>
+					</div>
+					<div class="twelve centered columns">
+						<span class="label-body"><b>do you graduate at the end of this semester?<b></span>
+						<input class="wide" type="checkbox" name="user[alumni]"/>
+					</div>
+					<div class="twelve centered columns">
+						<span class="label-body"><b>do you want a public profile on our website?<b></span>
+						<input class="wide" type="checkbox" name="user[create_profile]"/>
+					</div>
+					<div class="twelve centered columns">
+						<span class="label-body"><b>upload a profile pic (if you want a public profile) <b></span>
+					</div>
+					<div class="four centered columns offset-by-five" style="margin-top: 1%">
+						<input class="wide" type="file" accept="image/*" name="image"/>
+					</div>
+				</div>
+				<div class="row" style="margin-top: 2%">
+					<div class="twelve centered columns"><input type="submit" value="Register"></div>
+				</div>
+			</form>
+		</div>
+	</div>
+<!-- End Document
+	–––––––––––––––––––––––––––––––––––––––––––––––––– -->
+</body>
+</html>
