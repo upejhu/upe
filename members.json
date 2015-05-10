@@ -1,9 +1,9 @@
-{  
-    "years":[  
-        {  
-            "year":"2014",
-            "members":[  
-                {  
+{
+    "years":[
+        {
+            "year":2014,
+            "members":[
+                {
                     "alumni":false,
                     "create_profile":true,
                     "name":"Carlo Olcese",
@@ -16,7 +16,7 @@
                     "hobbies":"Weight Lifting, App. development, and basketball",
                     "image":"images/carlo_olcese.jpg"
                 },
-                {  
+                {
                     "alumni":false,
                     "create_profile":true,
                     "name":"Tuvia Lerea",
@@ -29,16 +29,16 @@
                     "hobbies":"Programming, StarCraft, Bootup Baltimore, skiing",
                     "image":"images/tuvia_lerea.jpg"
                 },
-                {  
+                {
                     "alumni":true,
                     "name":"Benjamin Glickman",
                     "notes":"Treasurer"
                 },
-                {  
+                {
                     "alumni":true,
                     "name":"Gregory Furman"
                 },
-                {  
+                {
                     "alumni":true,
                     "name":"Charles Seidell",
                     "create_profile":true,
@@ -48,7 +48,7 @@
                     "hobbies":"Magic: The Gathering, Videogames, Reading, Tennis",
                     "image":"images/charles_seidell.jpg"
                 },
-                {  
+                {
                     "alumni":false,
                     "create_profile":true,
                     "name":"Disa Mhembere",
@@ -61,7 +61,7 @@
                     "hobbies":"Tennis, snowboarding, running, biking",
                     "image":"images/disa_mhembere.jpg"
                 },
-                {  
+                {
                     "alumni":false,
                     "create_profile":true,
                     "name":"Tze-Yuan Cheng",
@@ -71,11 +71,11 @@
                     "languages":"Matlab, C, C++",
                     "image":"images/no_image_male.png"
                 },
-                {  
+                {
                     "alumni":true,
                     "name":"Jeremy Dolinko"
                 },
-                {  
+                {
                     "alumni":true,
                     "create_profile":true,
                     "name":"Ben Cohen",
@@ -85,16 +85,16 @@
                     "hobbies":"Sketch Comedy, Improv, Standup, Theater",
                     "image":"images/benjamin_cohen.jpg"
                 },
-                {  
+                {
                     "alumni":true,
                     "name":"Maxwell Dickey"
                 }
             ]
         },
-        {  
-            "year":"2013",
-            "members":[  
-                {  
+        {
+            "year":2013,
+            "members":[
+                {
                     "alumni":false,
                     "create_profile":true,
                     "name":"Alexander Schiffhauer",
@@ -107,15 +107,15 @@
                     "hobbies":"Travel, photography, weightlifting, basketball, bicycling, and guitar",
                     "image":"images/alexander_schiffhauer.jpg"
                 },
-                {  
+                {
                     "alumni":true,
                     "name":"Grace Yeo"
                 },
-                {  
+                {
                     "alumni":true,
                     "name":"Daniel Deutsch"
                 },
-                {  
+                {
                     "alumni":true,
                     "create_profile":true,
                     "name":"David Watson",
@@ -125,58 +125,58 @@
                     "hobbies":"Hobbies: Biking, surfing, hula hooping",
                     "image":"images/no_image_male.png"
                 },
-                {  
+                {
                     "alumni":true,
                     "name":"Austin Estep"
                 },
-                {  
+                {
                     "alumni":true,
                     "name":"Bennett Ellis"
                 },
-                {  
+                {
                     "alumni":true,
                     "name":"Praneeth Sadda"
                 },
-                {  
+                {
                     "alumni":true,
                     "name":"Paul Martin"
                 },
-                {  
+                {
                     "alumni":true,
                     "name":"Sharon Li"
                 },
-                {  
+                {
                     "alumni":true,
                     "name":"Jay DeYong",
                     "notes":"Vice-President"
                 },
-                {  
+                {
                     "alumni":true,
                     "name":"Jeffrey Dallatezza",
                     "notes":"President"
                 },
-                {  
+                {
                     "alumni":true,
                     "name":"Daniel Abolafia"
                 },
-                {  
+                {
                     "alumni":true,
                     "name":"Emily Daggett"
                 },
-                {  
+                {
                     "alumni":true,
                     "name":"David Lichtenberg"
                 }
             ]
         },
-        {  
-            "year":"2012",
-            "members":[  
-                {  
+        {
+            "year":2012,
+            "members":[
+                {
                     "alumni":true,
                     "name":"Alexander Liu"
                 },
-                {  
+                {
                     "alumni":true,
                     "name":"Juneki Hong",
                     "create_profile":true,
@@ -186,53 +186,53 @@
                     "hobbies":"Video games, configuring my laptop to my preference, learning something",
                     "image":"images/juneki_hong.jpg"
                 },
-                {  
+                {
                     "alumni":true,
                     "name":"Noah Belcher"
                 },
-                {  
+                {
                     "alumni":true,
                     "name":"Vincent Ng"
                 },
-                {  
+                {
                     "alumni":true,
                     "name":"Martin Kelly"
                 },
-                {  
+                {
                     "alumni":true,
                     "name":"Katherine Wu"
                 },
-                {  
+                {
                     "alumni":true,
                     "name":"Ishwar Sivakumar"
                 },
-                {  
+                {
                     "alumni":true,
                     "name":"Henry Pao"
                 },
-                {  
+                {
                     "alumni":true,
                     "name":"Daniel Obenshain"
                 },
-                {  
+                {
                     "alumni":true,
                     "name":"Jay Feldman"
                 }
             ]
         },
-        {  
-            "year":"2011",
-            "members":[  
-                {  
+        {
+            "year":2011,
+            "members":[
+                {
                     "alumni":true,
                     "name":"Courtney Napoles"
                 },
-                {  
+                {
                     "alumni":true,
                     "name":"Haluk Tokgozoglu",
                     "notes":"Secretary"
                 },
-                {  
+                {
                     "alumni":false,
                     "create_profile":true,
                     "name":"Michael Rushanan",
@@ -244,61 +244,61 @@
                     "hobbies":"Running, Video Gaming, Open Source Software and Electronics Development",
                     "image":"images/micheal_rushanan.png"
                 },
-                {  
+                {
                     "alumni":true,
                     "name":"Elizabeth Cha"
                 },
-                {  
+                {
                     "alumni":true,
                     "name":"Alexander Ropson"
                 },
-                {  
+                {
                     "alumni":true,
                     "name":"Joel Scaria"
                 },
-                {  
+                {
                     "alumni":true,
                     "name":"Kieran Magee"
                 },
-                {  
+                {
                     "alumni":true,
                     "name":"Leah Hanson"
                 },
-                {  
+                {
                     "alumni":true,
                     "name":"Luwei Zhou"
                 },
-                {  
+                {
                     "alumni":true,
                     "name":"Jeremy Weiss"
                 },
-                {  
+                {
                     "alumni":true,
                     "name":"Stephyn Butcher"
                 },
-                {  
+                {
                     "alumni":true,
                     "name":"Jonathan Schwam",
                     "notes":"Vice-President"
                 },
-                {  
+                {
                     "alumni":true,
                     "name":"James Doverspike"
                 },
-                {  
+                {
                     "alumni":true,
                     "name":"Jonathan Satria"
                 }
             ]
         },
-        {  
-            "year":"2010",
-            "members":[  
-                {  
+        {
+            "year":2010,
+            "members":[
+                {
                     "alumni":true,
                     "name":"Sohel Sanghani"
                 },
-                {  
+                {
                     "alumni":true,
                     "create_profile":true,
                     "name":"Yun Liu",
@@ -307,145 +307,145 @@
                     "languages":"Python",
                     "image":"images/no_image_male.png"
                 },
-                {  
+                {
                     "alumni":true,
                     "name":"Evan Goldschmidt"
                 },
-                {  
+                {
                     "alumni":true,
                     "name":"Eddie Holzinger"
                 },
-                {  
+                {
                     "alumni":true,
                     "name":"Ryan Ly"
                 },
-                {  
+                {
                     "alumni":true,
                     "name":"Matthew Ziegellbaum"
                 },
-                {  
+                {
                     "alumni":true,
                     "name":"Matthew Pagano"
                 },
-                {  
+                {
                     "alumni":true,
                     "name":"Lauren Bradel"
                 },
-                {  
+                {
                     "alumni":true,
                     "name":"Maria Ayad"
                 },
-                {  
+                {
                     "alumni":true,
                     "name":"Chancellor Pascale"
                 },
-                {  
+                {
                     "alumni":true,
                     "name":"Zhenyu Chen"
                 }
             ]
         },
-        {  
-            "year":"2009",
-            "members":[  
-                {  
+        {
+            "year":2009,
+            "members":[
+                {
                     "alumni":true,
                     "name":"Manaswi Gupta",
                     "notes":"Secretary"
                 },
-                {  
+                {
                     "alumni":true,
                     "name":"John Hioknan"
                 },
-                {  
+                {
                     "alumni":true,
                     "name":"William Prin III"
                 },
-                {  
+                {
                     "alumni":true,
                     "name":"Emily DiDonato"
                 },
-                {  
+                {
                     "alumni":true,
                     "name":"Robert Doverspike",
                     "notes":"President"
                 },
-                {  
+                {
                     "alumni":true,
                     "name":"Arthur Dassh"
                 },
-                {  
+                {
                     "alumni":true,
                     "name":"Aaron Mannenbach"
                 },
-                {  
+                {
                     "alumni":true,
                     "name":"H. Parker Shelton",
                     "notes":"Vice-President"
                 },
-                {  
+                {
                     "alumni":true,
                     "name":"James Gettinger"
                 }
             ]
         },
-        {  
-            "year":"2008",
-            "members":[  
-                {  
+        {
+            "year":2008,
+            "members":[
+                {
                     "alumni":true,
                     "name":"Eric Ngao"
                 },
-                {  
+                {
                     "alumni":true,
                     "name":"Mitchell Williams",
                     "notes":"Vice-President"
                 },
-                {  
+                {
                     "alumni":true,
                     "name":"Cole Strode"
                 },
-                {  
+                {
                     "alumni":true,
                     "name":"Crystal Chemn"
                 }
             ]
         },
-        {  
-            "year":"2007",
-            "members":[  
-                {  
+        {
+            "year":2007,
+            "members":[
+                {
                     "alumni":true,
                     "name":"Chris Johns"
                 },
-                {  
+                {
                     "alumni":true,
                     "name":"Jonathan Polirer"
                 },
-                {  
+                {
                     "alumni":true,
                     "name":"Brendan O'Connor",
                     "notes":"Vice-President"
                 },
-                {  
+                {
                     "alumni":true,
                     "name":"Rodwitt Lai",
                     "notes":"Secretary"
                 },
-                {  
+                {
                     "alumni":true,
                     "name":"Terence Lee"
                 }
             ]
         },
-        {  
-            "year":"2006",
-            "members":[  
-                {  
+        {
+            "year":2006,
+            "members":[
+                {
                     "alumni":true,
                     "name":"Michael Constantinos"
                 },
-                {  
+                {
                     "alumni":true,
                     "name":"Yair Flicker",
                     "create_profile":true,
@@ -455,339 +455,339 @@
                     "hobbies":"Biking, running, networking, travelling",
                     "image":"images/yair_flicker.jpg"
                 },
-                {  
+                {
                     "alumni":true,
                     "name":"Joanna Kochaniak"
                 },
-                {  
+                {
                     "alumni":true,
                     "name":"Andrew Levy"
                 },
-                {  
+                {
                     "alumni":true,
                     "name":"Samuel Huay"
                 },
-                {  
+                {
                     "alumni":true,
                     "name":"Jonathan Lasko",
                     "notes":"President"
                 },
-                {  
+                {
                     "alumni":true,
                     "name":"Safiullah Shareef"
                 },
-                {  
+                {
                     "alumni":true,
                     "name":"Zachary Scott"
                 },
-                {  
+                {
                     "alumni":true,
                     "name":"James Stephan"
                 },
-                {  
+                {
                     "alumni":true,
                     "name":"Joseph Romano"
                 },
-                {  
+                {
                     "alumni":true,
                     "name":"Raaid Ahmad"
                 },
-                {  
+                {
                     "alumni":true,
                     "name":"Venkat Bhac-Avatula"
                 },
-                {  
+                {
                     "alumni":true,
                     "name":"Jeffrey Dvornek"
                 },
-                {  
+                {
                     "alumni":true,
                     "name":"Peter Frohlich",
                     "notes":"Senior Lecturer"
                 }
             ]
         },
-        {  
-            "year":"2004",
-            "members":[  
-                {  
+        {
+            "year":2004,
+            "members":[
+                {
                     "alumni":true,
                     "name":"John Trupiano"
                 },
-                {  
+                {
                     "alumni":true,
                     "name":"Jonathan Grover"
                 },
-                {  
+                {
                     "alumni":true,
                     "name":"Danico Scepanovic"
                 },
-                {  
+                {
                     "alumni":true,
                     "name":"Andrew Pile"
                 },
-                {  
+                {
                     "alumni":true,
                     "name":"Nilchil Palekar"
                 },
-                {  
+                {
                     "alumni":true,
                     "name":"Chris Auyeung"
                 },
-                {  
+                {
                     "alumni":true,
                     "name":"David Carrick"
                 },
-                {  
+                {
                     "alumni":true,
                     "name":"Joanne Tsui"
                 },
-                {  
+                {
                     "alumni":true,
                     "name":"Charalambos Antonia"
                 },
-                {  
+                {
                     "alumni":true,
                     "name":"Benny Tsai"
                 },
-                {  
+                {
                     "alumni":true,
                     "name":"Jon Morra"
                 },
-                {  
+                {
                     "alumni":true,
                     "name":"Michael Balazs"
                 },
-                {  
+                {
                     "alumni":true,
                     "name":"John Rittenhouse"
                 }
             ]
         },
-        {  
-            "year":"2003",
-            "members":[  
-                {  
+        {
+            "year":2003,
+            "members":[
+                {
                     "alumni":true,
                     "name":"James Zarfoss"
                 },
-                {  
+                {
                     "alumni":true,
                     "name":"Lauren Rosenblatt"
                 },
-                {  
+                {
                     "alumni":true,
                     "name":"Svetlana Minia"
                 },
-                {  
+                {
                     "alumni":true,
                     "name":"Nathaniel Duca"
                 },
-                {  
+                {
                     "alumni":true,
                     "name":"Hadi Husain"
                 }
             ]
         },
-        {  
-            "year":"2002",
-            "members":[  
-                {  
+        {
+            "year":2002,
+            "members":[
+                {
                     "alumni":true,
                     "name":"Michael Mattozzi"
                 },
-                {  
+                {
                     "alumni":true,
                     "name":"Alvin Ting"
                 },
-                {  
+                {
                     "alumni":true,
                     "name":"Hashima Munjal"
                 },
-                {  
+                {
                     "alumni":true,
                     "name":"Peter Keeler",
                     "notes":"Vice-President"
                 },
-                {  
+                {
                     "alumni":true,
                     "name":"Ryan Caudy",
                     "notes":"Secretary"
                 },
-                {  
+                {
                     "alumni":true,
                     "name":"Darren Davis"
                 },
-                {  
+                {
                     "alumni":true,
                     "name":"Michael Hilsdale"
                 },
-                {  
+                {
                     "alumni":true,
                     "name":"Jason Gordon"
                 },
-                {  
+                {
                     "alumni":true,
                     "name":"John Cramp"
                 },
-                {  
+                {
                     "alumni":true,
                     "name":"Phillip Chiu"
                 },
-                {  
+                {
                     "alumni":true,
                     "name":"Siddharth Sonrexa"
                 },
-                {  
+                {
                     "alumni":true,
                     "name":"Roy Lirov"
                 },
-                {  
+                {
                     "alumni":true,
                     "name":"Adam Dziorny"
                 },
-                {  
+                {
                     "alumni":true,
                     "name":"Chuck Crow",
                     "notes":"President"
                 }
             ]
         },
-        {  
-            "year":"2001",
-            "members":[  
-                {  
+        {
+            "year":2001,
+            "members":[
+                {
                     "alumni":true,
                     "name":"Dr. Joanne F. Selinski",
                     "notes":"Associate Teaching Professor"
                 },
-                {  
+                {
                     "alumni":true,
                     "name":"John Stoneham"
                 },
-                {  
+                {
                     "alumni":true,
                     "name":"Joshua Freedman"
                 },
-                {  
+                {
                     "alumni":true,
                     "name":"Robert Yashinski Jr."
                 },
-                {  
+                {
                     "alumni":true,
                     "name":"Matthew Michaelson"
                 },
-                {  
+                {
                     "alumni":true,
                     "name":"Max Smolens"
                 },
-                {  
+                {
                     "alumni":true,
                     "name":"Michael Tabernero"
                 },
-                {  
+                {
                     "alumni":true,
                     "name":"Stephan Lee"
                 },
-                {  
+                {
                     "alumni":true,
                     "name":"Jeremy Mihlich"
                 },
-                {  
+                {
                     "alumni":true,
                     "name":"Nettie Vasbindi"
                 },
-                {  
+                {
                     "alumni":true,
                     "name":"Kanishik Parashar"
                 },
-                {  
+                {
                     "alumni":true,
                     "name":"Peter Magic"
                 },
-                {  
+                {
                     "alumni":true,
                     "name":"Julian Suirsky"
                 }
             ]
         },
-        {  
-            "year":"2000",
-            "members":[  
-                {  
+        {
+            "year":2000,
+            "members":[
+                {
                     "alumni":true,
                     "name":"Dr. Scott Smith",
                     "notes":"Professor"
                 },
-                {  
+                {
                     "alumni":true,
                     "name":"William Chang"
                 },
-                {  
+                {
                     "alumni":true,
                     "name":"Catherine Clark"
                 },
-                {  
+                {
                     "alumni":true,
                     "name":"Reid Badgett"
                 },
-                {  
+                {
                     "alumni":true,
                     "name":"Lilian Diaz"
                 },
-                {  
+                {
                     "alumni":true,
                     "name":"Dennis Cheung"
                 },
-                {  
+                {
                     "alumni":true,
                     "name":"Jeffrey Lee"
                 },
-                {  
+                {
                     "alumni":true,
                     "name":"James Miller"
                 },
-                {  
+                {
                     "alumni":true,
                     "name":"Dale Chah"
                 },
-                {  
+                {
                     "alumni":true,
                     "name":"Phillip Lawton"
                 },
-                {  
+                {
                     "alumni":true,
                     "name":"Touby Drew"
                 },
-                {  
+                {
                     "alumni":true,
                     "name":"Charles O'Rourke"
                 },
-                {  
+                {
                     "alumni":true,
                     "name":"Charles Hung"
                 },
-                {  
+                {
                     "alumni":true,
                     "name":"Alexandra Heron"
                 },
-                {  
+                {
                     "alumni":true,
                     "name":"Scott Lipcon"
                 },
-                {  
+                {
                     "alumni":true,
                     "name":"Joel Sandin"
                 },
-                {  
+                {
                     "alumni":true,
                     "name":"Ryan Brown"
                 },
-                {  
+                {
                     "alumni":true,
                     "name":"Stuart Jackson"
                 },
-                {  
+                {
                     "alumni":true,
                     "name":"Suzanne Sheerin"
                 }
