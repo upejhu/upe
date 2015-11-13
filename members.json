@@ -1,7 +1,7 @@
 {
     "years":[
         {
-            "years":2015,
+            "year":2015,
             "members":[
                 {
                     "alumni":false,
@@ -9,7 +9,7 @@
                     "name":"Christina Garman",
                     "notes":"",
                     "interests":"cryptography, computer security",
-                    "academic_standing":"PhD student",
+                    "academic_standing":"PhD student"
                 },
                 {
                     "alumni":true,
@@ -22,26 +22,13 @@
                     "hobbies":"reading, archery, music"
                 },
                 {
-                    "alumni":true,
-                    "create_profile":true,
-                    "name":"",
-                    "notes":"",
-                    "interests":"",
-                    "academic_standing":"",
-                    "name":"Roger Que",
-                    "interests":"NLP, computer security",
-                    "academic_standing":"Master's",
-                    "languages":"Python, Java, JavaScript, Ruby",
-                    "hobbies":"writing, photography"
-                },
-                {
-                    "alumni":false,
                     "name":"Roger Que",
                     "interests":"NLP, computer security",
                     "academic_standing":"Master's",
                     "languages":"Python, Java, JavaScript, Ruby",
                     "hobbies":"writing, photography",
-                    "alumni":true,"create_profile":false
+                    "alumni":true,
+                    "create_profile":true
                 },
                 {
                     "alumni":false,
@@ -61,7 +48,7 @@
                     "academic_standing":"Bachelors/Masters",
                     "languages":"Java, Python, C","hobbies":"video games, traveling",
                     "alumni":true,
-                    "create_profile":false
+                    "create_profile":true
                 },
                 {
                     "alumni":false,
@@ -71,7 +58,7 @@
                     "tutoring":"Data Structure, Algorithms",
                     "academic_standing":"Combined Bachelor's/Master's",
                     "languages":"Java, Python, C",
-                    "hobbies":"soccer",
+                    "hobbies":"soccer"
                 },
                 {
                     "name":"Yvonne Jiang",
@@ -81,7 +68,7 @@
                     "languages":"Python, Java, C, MATLAB",
                     "hobbies":"Violin, reading, puzzling, origami",
                     "alumni":true,
-                    "create_profile":true,
+                    "create_profile":true
                 },
                 {
                     "name":"Jennifer Lu",
@@ -92,7 +79,7 @@
                     "hobbies":"Reading, baking, tetris, Netflix, piano, singing, dancing, candy crush",
                     "alumni":true,
                     "create_profile":true,
-                    "image":"2834ad4931120dc9bd4d52082a6b30f0.jpg"
+                    "image":"images/jen_lu.jpg"
                 },
                 {
                     "name":"Michael Shavit",
@@ -100,7 +87,7 @@
                     "academic_standing":"Bachelor's/Masters",
                     "languages":"C, Python, Java,  etc",
                     "create_profile":true,
-                    "alumni":false,
+                    "alumni":false
                 },
                 {
                     "name":"Diana Chen",
@@ -109,7 +96,7 @@
                     "academic_standing":"Concurrent bachelor's and master's",
                     "languages":"Java, Python, C, OCaml",
                     "alumni":false,
-                    "create_profile":false,
+                    "create_profile":true
                 },
                 {
                     "name":"Naomi Ephraim",
@@ -118,7 +105,7 @@
                     "languages":"Java, Python, C, C++",
                     "hobbies":"knitting, baking, volleyball",
                     "alumni":false,
-                    "create_profile":false,
+                    "create_profile":true
                 },
                 {
                     "name":"Jose Ulises Nino Rivera ",
@@ -129,7 +116,7 @@
                     "hobbies":"Running",
                     "alumni":true,
                     "create_profile":true,
-                    "image":"5944a2e43b9a8d7fbfba2d9e4f9916d5.jpg",
+                    "image":"images/jose_nino.jpg"
                 },
                 {
                     "name":"Lindsey Fernandez",
@@ -137,7 +124,7 @@
                     "academic_standing":"Bachelor's",
                     "languages":"Java, Python, Matlab, HTML/CSS/Javascript",
                     "alumni":false,
-                    "create_profile":false,
+                    "create_profile":true
                 },
                 {
                     "name":"Neil Mallinar",
@@ -148,12 +135,11 @@
                     "hobbies":"Piano, guitar, music production, hiking",
                     "create_profile":true,
                     "alumni":false,
-                    "image":"7658867fec279fe25301e19815d41b68.jpg",
+                    "image":"images/neil_mallinar.jpg"
                 }
             ]
 
-        }
-
+        },
         {
             "year":2014,
             "members":[
