@@ -75,10 +75,12 @@ KISS.
 ## Contributions
 
 * Alexander Schiffhauer, President 2014
-* Disa Mhembere, Secretary 2014
-* Carlo Olcese, Member 2014
+* Disa Mhembere, Secretary 2014, President 2015
+* Carlo Olcese, Member 2014, Vice-President 2015
 * Jeffrey Dallatezza, President 2013
 * Sharon Li, Member 2013
+* Jose Nino, Treasurer 2015
+* Kunal Lillaney, Secretary 2015
 
 Special thanks to members of the ACM that continue to host our website, free of charge.
 
