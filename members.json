@@ -54,7 +54,6 @@
                     "languages":"Python, C, Java",
                     "hobbies":"gaming, reading, cooking"
                 },
-
                 {
                     "name":"Vamsi Chunduru",
                     "interests":"robotics, web development, artificial intelligence",
@@ -64,6 +63,93 @@
                     "alumni":true,
                     "create_profile":false
                 },
+                {
+                    "alumni":false,
+                    "create_profile":true,
+                    "name":"Mozhi Zhang",
+                    "interests":"Natural Language Processing, Machine Learning",
+                    "tutoring":"Data Structure, Algorithms",
+                    "academic_standing":"Combined Bachelor's/Master's",
+                    "languages":"Java, Python, C",
+                    "hobbies":"soccer",
+                },
+                {
+                    "name":"Yvonne Jiang",
+                    "interests":"Genomics, User Interface Design",
+                    "tutoring":"Computer System Fundamentals, Parallel Programming",
+                    "academic_standing":"Bachelors",
+                    "languages":"Python, Java, C, MATLAB",
+                    "hobbies":"Violin, reading, puzzling, origami",
+                    "alumni":true,
+                    "create_profile":true,
+                },
+                {
+                    "name":"Jennifer Lu",
+                    "interests":"Genomics",
+                    "tutoring":"Data Structures, Intermediate Programming",
+                    "academic_standing":"Bachelor's",
+                    "languages":"Java, Python, C, C++, Perl, Matlab, SQL",
+                    "hobbies":"Reading, baking, tetris, Netflix, piano, singing, dancing, candy crush",
+                    "alumni":true,
+                    "create_profile":true,
+                    "image":"2834ad4931120dc9bd4d52082a6b30f0.jpg"
+                },
+                {
+                    "name":"Michael Shavit",
+                    "interests":"Security, Systems",
+                    "academic_standing":"Bachelor's/Masters",
+                    "languages":"C, Python, Java,  etc",
+                    "create_profile":true,
+                    "alumni":false,
+                },
+                {
+                    "name":"Diana Chen",
+                    "interests":"Systems",
+                    "tutoring":"Intro to Java, Intermediate Programming, Data Structures",
+                    "academic_standing":"Concurrent bachelor's and master's",
+                    "languages":"Java, Python, C, OCaml",
+                    "alumni":false,
+                    "create_profile":false,
+                },
+                {
+                    "name":"Naomi Ephraim",
+                    "interests":"Algorithms, Graph Theory",
+                    "academic_standing":"Bachelor's",
+                    "languages":"Java, Python, C, C++",
+                    "hobbies":"knitting, baking, volleyball",
+                    "alumni":false,
+                    "create_profile":false,
+                },
+                {
+                    "name":"Jose Ulises Nino Rivera ",
+                    "interests":"Machine Learning in Healthcare, Programming Languages",
+                    "tutoring":"Data Structures, Algorithms, CSF",
+                    "academic_standing":"Masters of Science ",
+                    "languages":"Python, Haskell, Java, C",
+                    "hobbies":"Running",
+                    "alumni":true,
+                    "create_profile":true,
+                    "image":"5944a2e43b9a8d7fbfba2d9e4f9916d5.jpg",
+                },
+                {
+                    "name":"Lindsey Fernandez",
+                    "interests":"Medical Imaging, Neuroengineering, Big Data",
+                    "academic_standing":"Bachelor's",
+                    "languages":"Java, Python, Matlab, HTML/CSS/Javascript",
+                    "alumni":false,
+                    "create_profile":false,
+                },
+                {
+                    "name":"Neil Mallinar",
+                    "interests":"Algorithms, Machine Learning, Artificial Intelligence, Data Analytics, computer vision, sound processing",
+                    "tutoring":"Data structures, algorithms, Machine Learning, computer vision, Artificial Intelligence",
+                    "academic_standing":"Bachelors",
+                    "languages":"Java, python, C, javascript, ruby, C++",
+                    "hobbies":"Piano, guitar, music production, hiking",
+                    "create_profile":true,
+                    "alumni":false,
+                    "image":"7658867fec279fe25301e19815d41b68.jpg",
+                }
             ]
 
         }
