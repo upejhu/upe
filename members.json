@@ -1,6 +1,74 @@
 {
     "years":[
         {
+            "years":2015,
+            "members":[
+                {
+                    "alumni":false,
+                    "create_profile":true,
+                    "name":"Christina Garman",
+                    "notes":"",
+                    "interests":"cryptography, computer security",
+                    "academic_standing":"PhD student",
+                },
+                {
+                    "alumni":true,
+                    "create_profile":true,
+                    "name":"Lin Yang",
+                    "notes":"",
+                    "interests":"Algorithms, Complexity theory",
+                    "academic_standing":"Masters/PhD student",
+                    "languages":"Java, pyhton, C, C++, Matlab, Mathematica",
+                    "hobbies":"reading, archery, music"
+                },
+                {
+                    "alumni":true,
+                    "create_profile":true,
+                    "name":"",
+                    "notes":"",
+                    "interests":"",
+                    "academic_standing":"",
+                    "name":"Roger Que",
+                    "interests":"NLP, computer security",
+                    "academic_standing":"Master's",
+                    "languages":"Python, Java, JavaScript, Ruby",
+                    "hobbies":"writing, photography"
+                },
+                {
+                    "alumni":false,
+                    "name":"Roger Que",
+                    "interests":"NLP, computer security",
+                    "academic_standing":"Master's",
+                    "languages":"Python, Java, JavaScript, Ruby",
+                    "hobbies":"writing, photography",
+                    "alumni":true,"create_profile":false
+                },
+                {
+                    "alumni":false,
+                    "create_profile":true,
+                    "notes": "Vice-President",
+                    "name":"Kunal Lillaney",
+                    "interests":"Data Intensive Computing, Distributed Systems, Computer Security",
+                    "tutoring":"Parallel Programming",
+                    "academic_standing":"PhD Student",
+                    "languages":"Python, C, Java",
+                    "hobbies":"gaming, reading, cooking"
+                },
+
+                {
+                    "name":"Vamsi Chunduru",
+                    "interests":"robotics, web development, artificial intelligence",
+                    "tutoring":"Algorithms, Artificial Intelligence",
+                    "academic_standing":"Bachelors/Masters",
+                    "languages":"Java, Python, C","hobbies":"video games, traveling",
+                    "alumni":true,
+                    "create_profile":false
+                },
+            ]
+
+        }
+
+        {
             "year":2014,
             "members":[
                 {
