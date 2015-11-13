@@ -17,7 +17,7 @@
                     "image":"images/carlo_olcese.jpg"
                 },
                 {
-                    "alumni":false,
+                    "alumni":true,
                     "create_profile":true,
                     "name":"Tuvia Lerea",
                     "notes":"Vice-President",
@@ -62,7 +62,7 @@
                     "image":"images/disa_mhembere.jpg"
                 },
                 {
-                    "alumni":false,
+                    "alumni":true,
                     "create_profile":true,
                     "name":"Tze-Yuan Cheng",
                     "interests":"Computer Vision, Robotics",
