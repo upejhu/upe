@@ -12,7 +12,7 @@
                     "bio": "Machine Learning Student Research",
                     "create_profile": true,
                     "alumni": false,
-                    "tutoring": "Yes, all machine learning based classes"
+                    "tutoring": "Yes, all machine learning based classes",
                     "image": "images/corby_rosset.jpeg"
                   },
                   {
@@ -24,8 +24,8 @@
                     "bio": "US Army active duty officer in cyber operations",
                     "create_profile": true,
                     "alumni": false,
-                    "tutoring": "No"
-                    "image":"images/stephen_hamilton.jpeg"
+                    "tutoring": "No",
+                    "image": "images/stephen_hamilton.jpeg"
                   },
                   {
                     "interests": "Natural Language Processing, Computer Vision, Deep Learning, Machine Learning",
@@ -36,8 +36,8 @@
                     "bio": "Akshay Srivatsan is a student at Johns Hopkins University pursuing a combined Master\u2019s and Bachelor\u2019s degree in Computer Science and Applied Math and Statistics. He has worked at Bloomberg LP and at Applied Communication Sciences over the past two summers, and will work at Facebook this year. Akshay has a strong interest in machine learning, specifically in natural language processing, and has experience with graphical model approaches such as LDA and also deep learning based techniques such as word vector embeddings. He is currently doing research with Dr. Jason Eisner, a professor at JHU affiliated with the Center for Language and Speech Processing and the Machine Learning @ JHU community, and is a CA for Dr. Eisner\u2019s class on Natural Language Processing. Recently Akshay has also become interested in TensorFlow as an effective toolkit for deep learning. Using the library, he has implemented projects on deep Q learning, and on deep canonical correlation analysis.",
                     "create_profile": true,
                     "alumni": false,
-                    "tutoring": "CA of NLP 600.465"
-                    "image":"images/akshay_srivatsan.jpg"
+                    "tutoring": "CA of NLP 600.465",
+                    "image": "images/akshay_srivatsan.jpg"
                   },
                   {
                     "interests": "Keyboard Shortcuts",
@@ -70,8 +70,8 @@
                     "bio": "Dan is a young professional interested in utilizing data to transform healthcare.  He has worked in analytics consulting, medical startups and performed computational biology research.",
                     "create_profile": true,
                     "alumni": true,
-                    "tutoring": "Data Structures, Intermediate, CIS"
-                    "image":"images/dan_adler.jpg"
+                    "tutoring": "Data Structures, Intermediate, CIS",
+                    "image": "images/dan_adler.jpg"
                   },
                   {
                     "interests": "mobile health, machine learning on healthcare, and computer networks",
@@ -93,8 +93,8 @@
                     "bio": "California girl.",
                     "create_profile": true,
                     "alumni": false,
-                    "tutoring": "Intermediate Programming, Intro Programming, Data Structures, Computer Vision"
-                    "image":"images/tiffany_chung.jpg"
+                    "tutoring": "Intermediate Programming, Intro Programming, Data Structures, Computer Vision",
+                    "image": "images/tiffany_chung.jpg"
                   },
                   {
                     "interests": "Machine Learning, Natural Language Processing",
