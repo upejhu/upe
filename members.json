@@ -13,6 +13,7 @@
                     "create_profile": true,
                     "alumni": false,
                     "tutoring": "Yes, all machine learning based classes"
+                    "image":"images/corby_rosset.jpeg"
                   },
                   {
                     "interests": "ham radio, raspberry pi projects",
