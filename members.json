@@ -24,6 +24,7 @@
                     "create_profile": true,
                     "alumni": false,
                     "tutoring": "No"
+                    "image":"images/stephen_hamilton.jpeg"
                   },
                   {
                     "interests": "Natural Language Processing, Computer Vision, Deep Learning, Machine Learning",
@@ -35,6 +36,7 @@
                     "create_profile": true,
                     "alumni": false,
                     "tutoring": "CA of NLP 600.465"
+                    "image":"images/akshay_srivatsan.jpg"
                   },
                   {
                     "interests": "Keyboard Shortcuts",
@@ -68,6 +70,7 @@
                     "create_profile": true,
                     "alumni": true,
                     "tutoring": "Data Structures, Intermediate, CIS"
+                    "image":"images/dan_adler.jpg"
                   },
                   {
                     "interests": "mobile health, machine learning on healthcare, and computer networks",
@@ -90,6 +93,7 @@
                     "create_profile": true,
                     "alumni": false,
                     "tutoring": "Intermediate Programming, Intro Programming, Data Structures, Computer Vision"
+                    "image":"images/tiffany_chung.jpg"
                   },
                   {
                     "interests": "Machine Learning, Natural Language Processing",
@@ -122,8 +126,7 @@
                     "bio": "I work in the field of Medical Imaging, Computer Graphics, Computer Vision, and Parallel Computing.",
                     "create_profile": true,
                     "alumni": false,
-                    "tutoring": "Intermediate Programming, Computer Graphics, 
-                    Computer Vision, Computer Integrated Surgery"
+                    "tutoring": "Intermediate Programming, Computer Graphics Computer Vision, Computer Integrated Surgery"
                   },
                   {
                     "interests": "Data science, security systems",
