@@ -15,7 +15,20 @@
                     "alumni": false,
                     "tutoring": "Yes, all machine learning based classes",
                     "image": "images/corby_rosset.jpeg"
-                  },
+                  }, 
+                  {
+                    "interests": "Dank Apps, Distributed Systems, Networking",
+                    "name": "Trevor Aron",
+                    "languages": "Python, C++, C, Swift, Java",
+                    "notes": "Treasurer(2016)",
+                    "academic_standing": "Masters Student",
+                    "hobbies": "Snowboarding",
+                    "bio": "Building intrusion tolerant SCADA systems for powergrids",
+                    "create_profile": true,
+                    "alumni": false,
+                    "tutoring": "Systems classes",
+                    "image": "images/trevor_aron.jpeg"
+                  }, 
                   {
                     "interests": "ham radio, raspberry pi projects",
                     "name": "Stephen Hamilton",
