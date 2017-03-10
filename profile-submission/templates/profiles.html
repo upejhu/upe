@@ -25,29 +25,36 @@
         <p>
             <form action="" method="post" enctype="multipart/form-data">
                 Full name (First and Last):<br>
-                <input type="text" name="name">
+                <input type="text" name="name" required>
                 <br>
                 Academic standing:<br>
-                <input type="text" name="academic_standing">
+                <select>
+                    <option value="Freshman">Freshman</option>
+                    <option value="Sophomore">Sophomore</option>
+                    <option value="Junior">Opel</option>
+                    <option value="Senior">Senior</option>
+                    <option value="Master's Student">Master's</option>
+                    <option value="PhD Student">PhD</option>
+                </select name="academic_standing" required>
                 <br>
                 About me (Bio):<br>
-                <textarea name="bio" rows="10" cols="50"></textarea>
+                <textarea name="bio" rows="10" cols="50" required></textarea>
                 <br>
                 Interests within CS:<br>
                 <input type="text" name="interests">
                 <br>
                 Subjects you are most interested in tutoring:<br>
-                <input type="text" name="tutoring">
+                <input type="text" name="tutoring" required>
                 <br>
                 Languages of proficiency:<br>
-                <input type="text" name="languages">
+                <input type="text" name="languages" required>
                 <br>
                 Hobbies:<br>
-                <input type="text" name="hobbies">
+                <input type="text" name="hobbies" required>
                 <br>
                 ~500px x ~500px image of yourself:
                 <br>
-                <input type="file" name="file">
+                <input type="file" name="file" required>
                 <br>
 
                 <br><br>
