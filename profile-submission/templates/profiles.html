@@ -1,0 +1,58 @@
+<!doctype html>
+<html>
+    <head>
+        <meta charset="utf-8">
+        <title>UPE profile submission</title>
+        <meta name="description" content="Webpage for UPE profiles">
+    </head>
+
+    <body>
+        <h1> UPE profile submission </h1>
+        <p>
+            Please fill this form in its entirety. Those who do not will not be
+            inducted and will need to reapply to gain acceptance in the UPE. For
+            all fields <strong>do not</strong> use carriage returns or newlines
+            just write text.
+        </p>
+
+        <p>
+            This
+            information will be displayed on the <a href="http://upe.cs.jhu.edu/"
+                target="blank"> JHU UPE website</a> so please check grammar and
+            spelling on your behalf. Use commas to separate multiple items.
+        </p>
+
+        <p>
+            <form action="" method="post" enctype="multipart/form-data">
+                Full name (First and Last):<br>
+                <input type="text" name="name">
+                <br>
+                Academic standing:<br>
+                <input type="text" name="academic_standing">
+                <br>
+                About me (Bio):<br>
+                <textarea name="bio" rows="10" cols="50"></textarea>
+                <br>
+                Interests within CS:<br>
+                <input type="text" name="interests">
+                <br>
+                Subjects you are most interested in tutoring:<br>
+                <input type="text" name="tutoring">
+                <br>
+                Languages of proficiency:<br>
+                <input type="text" name="languages">
+                <br>
+                Hobbies:<br>
+                <input type="text" name="hobbies">
+                <br>
+                ~500px x ~500px image of yourself:
+                <br>
+                <input type="file" name="file">
+                <br>
+
+                <br><br>
+                <input type="submit" value="Submit">
+            </form>
+        </p>
+    </body>
+</html>
