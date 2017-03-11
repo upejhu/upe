@@ -11,6 +11,15 @@ STORE_DIR = "submit/"
 
 app = Flask(__name__)
 
+def clean(imd):
+    from werkzeug.datastructures import MultiDict
+    md = MultiDict(imd)
+
+    for key in md:
+        md[key] = md[key].replace("\r\n", " ")
+
+    return md
+
 @app.route("/", methods=["GET", "POST"])
 def upe():
     if request.method == "POST":
@@ -23,7 +32,7 @@ def upe():
             os.remove(fn)
 
         with open(fn, "wb") as f:
-            json.dump(request.form, f)
+            json.dump(clean(request.form), f)
 
         return "Submission Successful!"
     else:
