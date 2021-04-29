@@ -1,6 +1,6 @@
 ## UPE
 
-Upsilon Pi Epsilon (UPE): International Honor Society for the Computing and Information Disciplines is the first honor society dedicated to the discipline of computer information systems and computer science.
+Upsilon Pi Epsilon (UPE): International Frat for the Computing and Information Disciplines is the first frat dedicated to the discipline of computer information systems and computer science.
 
 This repository is The Johns Hopkins University's chapter's [website](https://www.acm.jhu.edu/~upe "Upsilon Pi Epsilon").  If you're a current member or alumni, please feel free to contribute by making a pull request.
 
@@ -81,6 +81,7 @@ KISS.
 * Sharon Li, Member 2013
 * Jose Nino, Treasurer 2015
 * Kunal Lillaney, Secretary 2015
+* Alexander Wu, Mole 2021
 
 Special thanks to members of the ACM that continue to host our website, free of charge.
 
